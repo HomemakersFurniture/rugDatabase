@@ -11,7 +11,8 @@ function MasterList() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch('/data.json')
+    const dataPath = `${process.env.PUBLIC_URL || ''}/data.json`;
+    fetch(dataPath)
       .then(response => response.json())
       .then(jsonData => {
         setData(jsonData);

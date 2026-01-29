@@ -1,16 +1,16 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { useParams, useNavigate, Link } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import '../styles.css';
 
 function CollectionDetail() {
   const { collectionName } = useParams();
-  const navigate = useNavigate();
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [selectedColor, setSelectedColor] = useState('');
 
   useEffect(() => {
-    fetch('/data.json')
+    const dataPath = `${process.env.PUBLIC_URL || ''}/data.json`;
+    fetch(dataPath)
       .then(response => response.json())
       .then(jsonData => {
         const collectionData = jsonData.filter(
