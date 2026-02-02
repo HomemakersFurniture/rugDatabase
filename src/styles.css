@@ -37,15 +37,15 @@
 .collections-table {
   width: 100%;
   border-collapse: collapse;
-  background: white;
+  background: #FFFEFC;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .collections-table thead {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  background: linear-gradient(129deg, #E05149 0%, #B32017 100%);
+  color: #FFFEFC;
 }
 
 .collections-table th {
@@ -58,7 +58,7 @@
 }
 
 .collections-table th:hover {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 254, 252, 0.1);
 }
 
 .collections-table th.sortable::after {
@@ -104,8 +104,8 @@
 }
 
 .detail-header {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  background: linear-gradient(129deg, #E05149 0%, #B32017 100%);
+  color: #FFFEFC;
   padding: 2rem;
   border-radius: 12px;
   margin-bottom: 2rem;
@@ -127,8 +127,8 @@
   display: inline-block;
   margin-bottom: 1.5rem;
   padding: 0.5rem 1rem;
-  background: #667eea;
-  color: white;
+  background: linear-gradient(129deg, #E05149 0%, #B32017 100%);
+  color: #FFFEFC;
   text-decoration: none;
   border-radius: 6px;
   transition: background-color 0.3s;
@@ -136,12 +136,12 @@
 }
 
 .back-button:hover {
-  background: #5568d3;
+  background: #B32017;
 }
 
 .color-selector-container {
   margin-bottom: 2rem;
-  background: white;
+  background: #FFFEFC;
   padding: 1.5rem;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -162,7 +162,7 @@
   font-size: 1rem;
   border: 2px solid #ddd;
   border-radius: 8px;
-  background: white;
+  background: #FFFEFC;
   cursor: pointer;
   transition: border-color 0.3s;
 }
@@ -175,15 +175,15 @@
 .detail-table {
   width: 100%;
   border-collapse: collapse;
-  background: white;
+  background: #FFFEFC;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .detail-table thead {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  background: linear-gradient(129deg, #E05149 0%, #B32017 100%);
+  color: #FFFEFC;
 }
 
 .detail-table th {
