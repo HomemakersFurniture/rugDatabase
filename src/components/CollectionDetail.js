@@ -84,12 +84,10 @@ function CollectionDetail() {
 
   // Determine which 3 columns to display (can be customized later)
   // For now, using: Size, Design ID, and Retail Price
-  const tableColumns = ['Size', 'Design ID', 'Retail Price'];
+  const tableColumns = ['Design ID / SKU', 'Size', 'Retail Price'];
 
   return (
     <div className="detail-container">
-      <Link to="/" className="back-button">← Back to Master List</Link>
-      
       <div className="detail-header">
         <h1>{collectionInfo.collectionName}</h1>
         <h2>{collectionInfo.vendor}</h2>
@@ -124,11 +122,20 @@ function CollectionDetail() {
             <tr key={index}>
               {tableColumns.map((column, colIndex) => (
                 <td key={colIndex}>
-                  {item[column] !== undefined && item[column] !== null && item[column] !== ''
-                    ? (typeof item[column] === 'number' 
-                        ? (column === 'Retail Price' ? `$${item[column].toFixed(2)}` : item[column])
-                        : item[column])
-                    : 'N/A'}
+                  {(() => {
+                    // Special-case: display HM SKU when present; otherwise Design ID
+                    if (column === 'Design ID / SKU') {
+                      const sku = item['HM SKU'];
+                      const designId = item['Design ID'];
+                      const value = sku !== undefined && sku !== null && sku !== '' ? sku : designId;
+                      return value !== undefined && value !== null && value !== '' ? value : 'N/A';
+                    }
+
+                    const value = item[column];
+                    if (value === undefined || value === null || value === '') return 'N/A';
+                    if (typeof value === 'number' && column === 'Retail Price') return `$${value.toFixed(2)}`;
+                    return value;
+                  })()}
                 </td>
               ))}
             </tr>

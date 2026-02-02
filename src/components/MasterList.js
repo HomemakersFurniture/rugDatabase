@@ -110,14 +110,14 @@ function MasterList() {
       <table className="collections-table">
         <thead>
           <tr>
+            <th>Collection Name</th>
+            <th>Brand</th>
             <th
               className={sortConfig.key === 'count' ? `sortable sort-${sortConfig.direction}` : 'sortable'}
               onClick={() => handleSort('count')}
             >
               # of Rugs
             </th>
-            <th>Collection Name</th>
-            <th>Brand</th>
           </tr>
         </thead>
         <tbody>
@@ -126,9 +126,9 @@ function MasterList() {
               key={index}
               onClick={() => handleRowClick(collection.collectionName)}
             >
-              <td>{collection.count}</td>
               <td>{collection.collectionName}</td>
               <td>{collection.vendor}</td>
+              <td>{collection.count}</td>
             </tr>
           ))}
         </tbody>
