@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/homemakersRugDatabase/static/css/main.64db93db.css",
-    "main.js": "/homemakersRugDatabase/static/js/main.c1c5a5a1.js",
+    "main.js": "/homemakersRugDatabase/static/js/main.e9dd7d2a.js",
     "index.html": "/homemakersRugDatabase/index.html",
     "main.64db93db.css.map": "/homemakersRugDatabase/static/css/main.64db93db.css.map",
-    "main.c1c5a5a1.js.map": "/homemakersRugDatabase/static/js/main.c1c5a5a1.js.map"
+    "main.e9dd7d2a.js.map": "/homemakersRugDatabase/static/js/main.e9dd7d2a.js.map"
   },
   "entrypoints": [
     "static/css/main.64db93db.css",
-    "static/js/main.c1c5a5a1.js"
+    "static/js/main.e9dd7d2a.js"
   ]
 }
