@@ -158,18 +158,26 @@
 .color-dropdown {
   width: 100%;
   max-width: 400px;
-  padding: var(--space-1) var(--space-2);
+  padding: var(--space-1) calc(var(--space-2) * 2);
   font-size: 1rem;
   border: 2px solid #ddd;
   border-radius: 8px;
-  background: #FFFEFC;
+  background-color: #FFFEFC;
+  background-image: url('./assets/chevronDown-xs-outlined.svg');
+  background-repeat: no-repeat;
+  background-position: right var(--space-2) center;
+  background-size: 0.75rem auto;
   cursor: pointer;
-  transition: border-color 0.3s;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
 }
 
 .color-dropdown:focus {
   outline: none;
-  border-color: #4a90e2;
+  border-color: #CD4941;
+  box-shadow: 0 0 0 2px #CD4941;
 }
 
 .detail-table {
@@ -225,7 +233,7 @@
 
 /* Footer */
 .site-footer {
-  background: #FFFEFC;
+  background: #F0EBE6;
   padding: var(--space-6) var(--space-2) var(--space-5);
   display: flex;
   flex-direction: column;
