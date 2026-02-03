@@ -1,5 +1,6 @@
 /* Master List Styles */
 .master-list-container {
+  width: 100%;
   max-width: 1400px;
   margin: 0 auto;
   padding: var(--space-5);
@@ -98,6 +99,7 @@
 
 /* Detail Page Styles */
 .detail-container {
+  width: 100%;
   max-width: 1200px;
   margin: 0 auto;
   padding: var(--space-5);
