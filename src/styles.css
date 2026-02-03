@@ -2,27 +2,27 @@
 .master-list-container {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: var(--space-5);
 }
 
 .master-list-header {
-  margin-bottom: 2rem;
+  margin-bottom: var(--space-5);
 }
 
 .master-list-header h1 {
   font-size: 2.5rem;
   color: #333;
-  margin-bottom: 1rem;
+  margin-bottom: var(--space-2);
 }
 
 .search-container {
-  margin-bottom: 1.5rem;
+  margin-bottom: var(--space-4);
 }
 
 .search-input {
   width: 100%;
   max-width: 500px;
-  padding: 0.75rem 1rem;
+  padding: var(--space-1) var(--space-2);
   font-size: 1rem;
   border: 2px solid #ddd;
   border-radius: 8px;
@@ -49,7 +49,7 @@
 }
 
 .collections-table th {
-  padding: 1rem;
+  padding: var(--space-2);
   text-align: left;
   font-weight: 600;
   cursor: pointer;
@@ -92,7 +92,7 @@
 }
 
 .collections-table td {
-  padding: 1rem;
+  padding: var(--space-2);
   color: #333;
 }
 
@@ -100,21 +100,21 @@
 .detail-container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: var(--space-5);
 }
 
 .detail-header {
   background: linear-gradient(129deg, #E05149 0%, #B32017 100%);
   color: #FFFEFC;
-  padding: 2rem;
+  padding: var(--space-5);
   border-radius: 12px;
-  margin-bottom: 2rem;
+  margin-bottom: var(--space-5);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .detail-header h1 {
   font-size: 2.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: var(--space-1);
 }
 
 .detail-header h2 {
@@ -125,8 +125,8 @@
 
 .back-button {
   display: inline-block;
-  margin-bottom: 1.5rem;
-  padding: 0.5rem 1rem;
+  margin-bottom: var(--space-4);
+  padding: var(--space-1) var(--space-2);
   background: linear-gradient(129deg, #E05149 0%, #B32017 100%);
   color: #FFFEFC;
   text-decoration: none;
@@ -140,16 +140,16 @@
 }
 
 .color-selector-container {
-  margin-bottom: 2rem;
+  margin-bottom: var(--space-5);
   background: #FFFEFC;
-  padding: 1.5rem;
+  padding: var(--space-4);
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .color-selector-container label {
   display: block;
-  margin-bottom: 0.5rem;
+  margin-bottom: var(--space-1);
   font-weight: 600;
   color: #333;
   font-size: 1.1rem;
@@ -158,7 +158,7 @@
 .color-dropdown {
   width: 100%;
   max-width: 400px;
-  padding: 0.75rem 1rem;
+  padding: var(--space-1) var(--space-2);
   font-size: 1rem;
   border: 2px solid #ddd;
   border-radius: 8px;
@@ -187,7 +187,7 @@
 }
 
 .detail-table th {
-  padding: 1rem;
+  padding: var(--space-2);
   text-align: left;
   font-weight: 600;
 }
@@ -205,29 +205,53 @@
 }
 
 .detail-table td {
-  padding: 1rem;
+  padding: var(--space-2);
   color: #333;
 }
 
 .loading {
   text-align: center;
-  padding: 3rem;
+  padding: var(--space-6);
   font-size: 1.2rem;
   color: #666;
 }
 
 .error {
   text-align: center;
-  padding: 3rem;
+  padding: var(--space-6);
   color: #d32f2f;
   font-size: 1.1rem;
+}
+
+/* Footer */
+.site-footer {
+  background: #FFFEFC;
+  padding: var(--space-6) var(--space-2) var(--space-5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.site-footer-logo {
+  width: 25vw;
+  height: auto;
+  max-width: 420px;
+  min-width: 180px;
+}
+
+.site-footer-text {
+  text-align: center;
+  color: #332A2A;
+  font-size: 0.95rem;
 }
 
 /* Responsive Design */
 @media (max-width: 768px) {
   .master-list-container,
   .detail-container {
-    padding: 1rem;
+    padding: var(--space-2);
   }
 
   .master-list-header h1 {
