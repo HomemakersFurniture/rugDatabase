@@ -4,6 +4,7 @@
   max-width: 1400px;
   margin: 0 auto;
   padding: var(--space-5);
+  padding-bottom: var(--space-6);
 }
 
 .master-list-header {
@@ -41,7 +42,7 @@
   background: #FFFEFC;
   border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 5px rgba(224, 81, 73, 0.2);
 }
 
 .collections-table thead {
@@ -103,6 +104,7 @@
   max-width: 1200px;
   margin: 0 auto;
   padding: var(--space-5);
+  padding-bottom: var(--space-6);
 }
 
 .detail-header {
@@ -111,7 +113,7 @@
   padding: var(--space-5);
   border-radius: 12px;
   margin-bottom: var(--space-5);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 2px 5px rgba(224, 81, 73, 0.2);
 }
 
 .detail-header h1 {
@@ -146,7 +148,7 @@
   background: #FFFEFC;
   padding: var(--space-4);
   border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 5px rgba(224, 81, 73, 0.2);
 }
 
 .color-selector-container label {
@@ -188,7 +190,7 @@
   background: #FFFEFC;
   border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 5px rgba(224, 81, 73, 0.2);
 }
 
 .detail-table thead {
@@ -219,6 +221,52 @@
   color: #333;
 }
 
+/* Copy button styles for Design ID / SKU column */
+.copyable-cell {
+  position: relative;
+}
+
+.copyable-content {
+  display: flex;
+  align-items: center;
+  gap: var(--space-1);
+  position: relative;
+}
+
+.copyable-text {
+  flex: 1;
+}
+
+.copy-button {
+  display: none;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.25rem 0.5rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: #CD4941;
+  font-size: 0.875rem;
+  font-family: 'Lato', sans-serif;
+  transition: opacity 0.2s;
+  opacity: 0;
+}
+
+.copyable-cell:hover .copy-button {
+  display: flex;
+  opacity: 1;
+}
+
+.copy-icon {
+  width: 0.875rem;
+  height: 0.875rem;
+  display: block;
+}
+
+.copy-text {
+  font-size: 0.875rem;
+}
+
 .loading {
   text-align: center;
   padding: var(--space-6);
@@ -245,7 +293,7 @@
 }
 
 .site-footer-logo {
-  width: 25vw;
+  width: 50vw;
   height: auto;
   max-width: 420px;
   min-width: 180px;

@@ -69,6 +69,16 @@ function CollectionDetail() {
     };
   }, [data]);
 
+  // Copy to clipboard function
+  const copyToClipboard = async (text) => {
+    try {
+      await navigator.clipboard.writeText(text);
+      // Optional: You could add a toast notification here
+    } catch (err) {
+      console.error('Failed to copy text: ', err);
+    }
+  };
+
   if (loading) {
     return <div className="loading">Loading collection details...</div>;
   }
@@ -121,14 +131,40 @@ function CollectionDetail() {
           {filteredData.map((item, index) => (
             <tr key={index}>
               {tableColumns.map((column, colIndex) => (
-                <td key={colIndex}>
+                <td 
+                  key={colIndex}
+                  className={column === 'Design ID / SKU' ? 'copyable-cell' : ''}
+                >
                   {(() => {
                     // Special-case: display HM SKU when present; otherwise Design ID
                     if (column === 'Design ID / SKU') {
                       const sku = item['HM SKU'];
                       const designId = item['Design ID'];
                       const value = sku !== undefined && sku !== null && sku !== '' ? sku : designId;
-                      return value !== undefined && value !== null && value !== '' ? value : 'N/A';
+                      const displayValue = value !== undefined && value !== null && value !== '' ? value : 'N/A';
+                      
+                      return (
+                        <span className="copyable-content">
+                          <span className="copyable-text">{displayValue}</span>
+                          {displayValue !== 'N/A' && (
+                            <button
+                              className="copy-button"
+                              onClick={(e) => {
+                                e.stopPropagation();
+                                copyToClipboard(displayValue);
+                              }}
+                              aria-label="Copy to clipboard"
+                            >
+                              <img 
+                                src={`${process.env.PUBLIC_URL || ''}/copy-s-outlined.svg`} 
+                                alt="Copy" 
+                                className="copy-icon"
+                              />
+                              <span className="copy-text">copy</span>
+                            </button>
+                          )}
+                        </span>
+                      );
                     }
 
                     const value = item[column];
