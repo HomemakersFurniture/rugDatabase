@@ -93,8 +93,8 @@ function CollectionDetail() {
   }
 
   // Determine which 3 columns to display (can be customized later)
-  // For now, using: Size, Design ID, and Retail Price
-  const tableColumns = ['Design ID / SKU', 'Size', 'Retail Price'];
+  // For now, using: Size, Order ID, and Retail Price
+  const tableColumns = ['Order ID', 'Size', 'Retail Price'];
 
   return (
     <div className="detail-container">
@@ -104,6 +104,7 @@ function CollectionDetail() {
       </div>
 
       <div className="color-selector-container">
+        <p className="order-instruction">Make note of or show the Order ID to a sales associate to order.</p>
         <label htmlFor="color-select">Select Color:</label>
         <select
           id="color-select"
@@ -133,11 +134,11 @@ function CollectionDetail() {
               {tableColumns.map((column, colIndex) => (
                 <td 
                   key={colIndex}
-                  className={column === 'Design ID / SKU' ? 'copyable-cell' : ''}
+                  className={column === 'Order ID' ? 'copyable-cell' : ''}
                 >
                   {(() => {
                     // Special-case: display HM SKU when present; otherwise Design ID
-                    if (column === 'Design ID / SKU') {
+                    if (column === 'Order ID') {
                       const sku = item['HM SKU'];
                       const designId = item['Design ID'];
                       const value = sku !== undefined && sku !== null && sku !== '' ? sku : designId;

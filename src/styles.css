@@ -151,6 +151,13 @@
   box-shadow: 0 2px 5px rgba(224, 81, 73, 0.2);
 }
 
+.order-instruction {
+  margin-bottom: var(--space-3);
+  color: #333;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
 .color-selector-container label {
   display: block;
   margin-bottom: var(--space-1);
@@ -221,7 +228,7 @@
   color: #333;
 }
 
-/* Copy button styles for Design ID / SKU column */
+/* Copy button styles for Order ID column */
 .copyable-cell {
   position: relative;
 }
