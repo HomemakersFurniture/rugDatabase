@@ -104,7 +104,7 @@
   max-width: 1200px;
   margin: 0 auto;
   padding: var(--space-5);
-  padding-bottom: var(--space-6);
+  padding-bottom: 25vh;
 }
 
 .detail-header {
@@ -319,6 +319,7 @@
   .master-list-container,
   .detail-container {
     padding: var(--space-2);
+    padding-bottom: 25vh;
   }
 
   .master-list-header h1 {
