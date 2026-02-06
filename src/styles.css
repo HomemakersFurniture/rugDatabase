@@ -162,7 +162,7 @@
 .color-dropdown {
   width: 100%;
   max-width: 400px;
-  padding: var(--space-1) calc(var(--space-2) * 2);
+  padding: var(--space-1) var(--space-2);
   font-size: 1rem;
   border: 2px solid #ddd;
   border-radius: 8px;
@@ -245,7 +245,8 @@
   background: transparent;
   border: none;
   cursor: pointer;
-  color: #CD4941;
+  background-color: #CD4941;
+  color: #FFFEFC;
   font-size: 0.875rem;
   font-family: 'Lato', sans-serif;
   transition: opacity 0.2s;
@@ -261,6 +262,7 @@
   width: 0.875rem;
   height: 0.875rem;
   display: block;
+  fill: #FFFEFC;
 }
 
 .copy-text {
