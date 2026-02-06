@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/homemakersRugDatabase/static/css/main.d4e11900.css",
+    "main.css": "/homemakersRugDatabase/static/css/main.11e4a60f.css",
     "main.js": "/homemakersRugDatabase/static/js/main.f16839fa.js",
     "index.html": "/homemakersRugDatabase/index.html",
     "static/media/chevronDown-xs-outlined.svg": "/homemakersRugDatabase/static/media/chevronDown-xs-outlined.7591832368073037de29.svg",
-    "main.d4e11900.css.map": "/homemakersRugDatabase/static/css/main.d4e11900.css.map",
+    "main.11e4a60f.css.map": "/homemakersRugDatabase/static/css/main.11e4a60f.css.map",
     "main.f16839fa.js.map": "/homemakersRugDatabase/static/js/main.f16839fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4e11900.css",
+    "static/css/main.11e4a60f.css",
     "static/js/main.f16839fa.js"
   ]
 }
