@@ -231,49 +231,70 @@
 /* Copy button styles for Order ID column */
 .copyable-cell {
   position: relative;
-}
-
-.copyable-content {
+  cursor: pointer;
+  padding: var(--space-2);
+  height: 100%;
   display: flex;
   align-items: center;
-  gap: var(--space-1);
+  justify-content: flex-start;
+}
+
+.order-id-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  background: #F5F5F5;
+  border: 1px solid #E0E0E0;
+  border-radius: 6px;
+  transition: all 0.2s ease;
   position: relative;
 }
 
-.copyable-text {
-  flex: 1;
+.order-id-button.copied {
+  background: #CD4941;
+  border-color: #CD4941;
 }
 
-.copy-button {
-  display: none;
-  align-items: center;
-  gap: 0.25rem;
-  padding: 0.25rem 0.5rem;
-  background: transparent;
-  border: none;
-  cursor: pointer;
-  background-color: #CD4941;
-  color: #FFFEFC;
-  font-size: 0.875rem;
+.order-id-text {
+  font-size: 1rem;
+  color: #332A2A;
+  font-weight: 400;
   font-family: 'Lato', sans-serif;
-  transition: opacity 0.2s;
-  opacity: 0;
 }
 
-.copyable-cell:hover .copy-button {
-  display: flex;
-  opacity: 1;
+.order-id-button.copied .order-id-text {
+  color: #FFFEFC;
 }
 
-.copy-icon {
-  width: 0.875rem;
-  height: 0.875rem;
-  display: block;
+.order-id-icon {
+  width: 15px;
+  height: 15px;
+  flex-shrink: 0;
+}
+
+.order-id-icon .icon-path {
+  fill: #9E9E9E;
+  transition: fill 0.2s ease;
+}
+
+.order-id-button.copied .order-id-icon .icon-path {
   fill: #FFFEFC;
 }
 
-.copy-text {
+.copied-tooltip {
+  position: absolute;
+  top: calc(100% + 0.5rem);
+  right: 0;
+  background: #F5F5F5;
+  color: #332A2A;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
   font-size: 0.875rem;
+  white-space: nowrap;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+  pointer-events: none;
 }
 
 .loading {
