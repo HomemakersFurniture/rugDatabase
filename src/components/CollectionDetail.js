@@ -134,7 +134,6 @@ function CollectionDetail() {
       </div>
 
       <div className="color-selector-container">
-        <p className="order-instruction">Make note of or show the Order ID to a sales associate to order.</p>
         <label htmlFor="color-select">Select Color:</label>
         <select
           id="color-select"
@@ -150,6 +149,7 @@ function CollectionDetail() {
         </select>
       </div>
 
+      <p className="order-instruction">Make note of or show the <span className="order-id-highlight">Order ID</span> to a sales associate to order.</p>
       <table className="detail-table">
         <thead>
           <tr>

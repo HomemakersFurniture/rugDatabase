@@ -56,6 +56,7 @@
   padding: var(--space-2);
   text-align: left;
   font-weight: 600;
+  font-size: 1rem;
   cursor: pointer;
   user-select: none;
   position: relative;
@@ -83,7 +84,7 @@
 
 .collections-table tbody tr {
   border-bottom: 1px solid #eee;
-  transition: background-color 0.5s ease-in-out;
+  transition: background-color 0.3s ease-in-out;
 }
 
 .collections-table tbody tr:hover {
@@ -98,6 +99,7 @@
 .collections-table td {
   padding: var(--space-2);
   color: #333;
+  font-size: 1rem;
 }
 
 /* Detail Page Styles */
@@ -137,7 +139,7 @@
   color: #FFFEFC;
   text-decoration: none;
   border-radius: 6px;
-  transition: background-color 0.5s ease-in-out;
+  transition: background-color 0.3s ease-in-out;
   font-size: 0.9rem;
 }
 
@@ -154,11 +156,15 @@
 }
 
 .order-instruction {
-  margin-bottom: var(--space-3);
+  margin-bottom: var(--space-2);
   color: #333;
   font-weight: 700;
   font-size: clamp(1rem, 2vw, 1.5rem);
   line-height: 130%;
+}
+
+.order-id-highlight {
+  color: #E05149;
 }
 
 .color-selector-container label {
@@ -212,10 +218,12 @@
   padding: var(--space-2);
   text-align: left;
   font-weight: 600;
+  font-size: 1rem;
 }
 
 .detail-table tbody tr {
   border-bottom: 1px solid #eee;
+  transition: background-color 0.3s ease-in-out;
 }
 
 .detail-table tbody tr:hover {
@@ -233,6 +241,7 @@
 .detail-table td {
   padding: var(--space-2);
   color: #333;
+  font-size: 1rem;
 }
 
 /* Copy button styles for Order ID column */
@@ -264,7 +273,7 @@
 }
 
 .order-id-text {
-  font-size: 1rem;
+  font-size: inherit;
   color: #332A2A;
   font-weight: 400;
   font-family: 'Lato', sans-serif;
