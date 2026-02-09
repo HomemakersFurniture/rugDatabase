@@ -157,7 +157,7 @@
   margin-bottom: var(--space-3);
   color: #333;
   font-weight: 700;
-  font-size: 2rem;
+  font-size: clamp(1rem, 2vw, 1.5rem);
   line-height: 130%;
 }
 
@@ -222,6 +222,10 @@
   background-color: #f8f9fa;
 }
 
+.detail-table tbody tr:hover .order-id-text {
+  font-weight: 700;
+}
+
 .detail-table tbody tr:last-child {
   border-bottom: none;
 }
@@ -262,7 +266,7 @@
 .order-id-text {
   font-size: 1rem;
   color: #332A2A;
-  font-weight: 700;
+  font-weight: 400;
   font-family: 'Lato', sans-serif;
 }
 
