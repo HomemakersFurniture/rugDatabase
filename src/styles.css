@@ -28,12 +28,14 @@
   font-size: 1rem;
   border: 2px solid #ddd;
   border-radius: 8px;
-  transition: border-color 0.3s;
+  background-color: #FFFEFC;
+  transition: border-color 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
 }
 
 .search-input:focus {
   outline: none;
-  border-color: #4a90e2;
+  border-color: #CD4941;
+  box-shadow: 0 0 0 2px #CD4941;
 }
 
 .collections-table {
@@ -81,7 +83,7 @@
 
 .collections-table tbody tr {
   border-bottom: 1px solid #eee;
-  transition: background-color 0.2s;
+  transition: background-color 0.5s ease-in-out;
 }
 
 .collections-table tbody tr:hover {
@@ -135,7 +137,7 @@
   color: #FFFEFC;
   text-decoration: none;
   border-radius: 6px;
-  transition: background-color 0.3s;
+  transition: background-color 0.5s ease-in-out;
   font-size: 0.9rem;
 }
 
@@ -154,8 +156,9 @@
 .order-instruction {
   margin-bottom: var(--space-3);
   color: #333;
-  font-size: 1rem;
-  line-height: 1.5;
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 130%;
 }
 
 .color-selector-container label {
@@ -182,7 +185,7 @@
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
-  transition: border-color 0.2s, box-shadow 0.2s;
+  transition: border-color 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
 }
 
 .color-dropdown:focus {
@@ -247,7 +250,7 @@
   background: #F5F5F5;
   border: 1px solid #E0E0E0;
   border-radius: 6px;
-  transition: all 0.2s ease;
+  transition: all 0.5s ease-in-out;
   position: relative;
 }
 
@@ -259,7 +262,7 @@
 .order-id-text {
   font-size: 1rem;
   color: #332A2A;
-  font-weight: 400;
+  font-weight: 700;
   font-family: 'Lato', sans-serif;
 }
 
@@ -275,7 +278,7 @@
 
 .order-id-icon .icon-path {
   fill: #9E9E9E;
-  transition: fill 0.2s ease;
+  transition: fill 0.5s ease-in-out;
 }
 
 .order-id-button.copied .order-id-icon .icon-path {
