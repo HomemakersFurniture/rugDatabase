@@ -35,15 +35,15 @@ npm run build
 
 ## Data Source
 
-The application uses `HM_Rug_Master_Complete.xlsx` which has been converted to `public/data.json`. The Excel file contains the following columns:
+The application uses `HM_Rug_Master.xlsx` (or `HM_Rug_Master_Complete.xlsx` for backwards compatibility) which has been converted to `public/data.json`. The Excel file contains the following columns:
 - Vendor (Brand)
 - Collection Name
-- Design ID
+- VPN (replaces Design ID)
 - Size
 - Primary Color
 - UPC
-- Retail Price
-- HM SKU
+- Retail (replaces Retail Price)
+- product_id (replaces HM SKU, optional)
 
 ### Updating the Data
 

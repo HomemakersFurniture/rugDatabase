@@ -119,7 +119,9 @@ function CollectionDetail() {
   }
 
   // Determine which 3 columns to display (can be customized later)
-  // For now, using: Size, Order ID, and Retail Price
+  // For now, using: Order ID, Size, and Retail Price
+  // Note: 'Retail Price' is the display name, but the actual data column is 'Retail'
+  // Note: 'Order ID' displays product_id when available, otherwise VPN
   const tableColumns = ['Order ID', 'Size', 'Retail Price'];
 
   return (
@@ -156,16 +158,16 @@ function CollectionDetail() {
         </thead>
         <tbody>
           {filteredData.map((item, index) => {
-            // Create a more stable key using Design ID, Size, and Primary Color
-            const rowKey = `${item['Design ID'] || 'unknown'}-${item['Size'] || 'unknown'}-${item['Primary Color'] || 'unknown'}-${index}`;
+            // Create a more stable key using VPN, Size, and Primary Color
+            const rowKey = `${item['VPN'] || 'unknown'}-${item['Size'] || 'unknown'}-${item['Primary Color'] || 'unknown'}-${index}`;
             return (
               <tr key={rowKey}>
                 {tableColumns.map((column, colIndex) => {
-                  // Special-case: display HM SKU when present; otherwise Design ID
+                  // Special-case: display product_id when present; otherwise VPN
                   if (column === 'Order ID') {
-                    const sku = item['HM SKU'];
-                    const designId = item['Design ID'];
-                    const value = sku !== undefined && sku !== null && sku !== '' ? sku : designId;
+                    const productId = item['product_id'];
+                    const vpn = item['VPN'];
+                    const value = productId !== undefined && productId !== null && productId !== '' ? productId : vpn;
                     const displayValue = value !== undefined && value !== null && value !== '' ? value : 'N/A';
                     const uniqueId = `${rowKey}-${colIndex}-${displayValue}`;
                     const isCopied = copiedId === uniqueId;
@@ -221,8 +223,13 @@ function CollectionDetail() {
                 return (
                   <td key={colIndex}>
                     {(() => {
-
-                      const value = item[column];
+                      // Map display column names to actual data column names
+                      let actualColumn = column;
+                      if (column === 'Retail Price') {
+                        actualColumn = 'Retail';
+                      }
+                      
+                      const value = item[actualColumn];
                       if (value === undefined || value === null || value === '') return 'N/A';
                       if (typeof value === 'number' && column === 'Retail Price') return `$${value.toFixed(2)}`;
                       return value;

@@ -7,16 +7,16 @@ This guide explains how to update the rug database when you have new data (e.g.,
 ### Option 1: Automated (Recommended)
 
 1. **Replace the Excel file**
-   - Replace `HM_Rug_Master_Complete.xlsx` with your updated Excel file
+   - Replace `HM_Rug_Master.xlsx` (or `HM_Rug_Master_Complete.xlsx` for backwards compatibility) with your updated Excel file
    - Make sure it has the same column structure:
      - Vendor
      - Collection Name
-     - Design ID
+     - VPN (replaces Design ID)
      - Size
      - Primary Color
      - UPC
-     - Retail Price
-     - HM SKU
+     - Retail (replaces Retail Price)
+     - product_id (replaces HM SKU, optional)
 
 2. **Run the conversion script**
    ```bash
@@ -87,12 +87,12 @@ The `convert-excel-to-json.js` script:
 Your Excel file must have these columns (exact names):
 - `Vendor` - Brand name
 - `Collection Name` - Collection identifier
-- `Design ID` - Design identifier
+- `VPN` - Vendor Product Number (replaces Design ID)
 - `Size` - Rug size
 - `Primary Color` - Color name
 - `UPC` - Universal Product Code
-- `Retail Price` - Price (number)
-- `HM SKU` - Homemakers SKU (can be empty)
+- `Retail` - Price (number, replaces Retail Price)
+- `product_id` - Product identifier (optional, can be empty, replaces HM SKU)
 
 ## Notes
 

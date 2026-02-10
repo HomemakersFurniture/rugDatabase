@@ -3,7 +3,12 @@
 /**
  * Excel to JSON Converter Script
  * 
- * This script converts the Excel file (HM_Rug_Master_Complete.xlsx) to data.json
+ * This script converts the Excel file (HM_Rug_Master.xlsx or HM_Rug_Master_Complete.xlsx) to data.json
+ * 
+ * Expected columns:
+ *   - VPN (replaces Design ID)
+ *   - Retail (replaces Retail Price)
+ *   - product_id (replaces HM SKU, optional)
  * 
  * Usage:
  *   npm run convert-data
@@ -16,33 +21,52 @@ const XLSX = require('xlsx');
 const fs = require('fs');
 const path = require('path');
 
-const EXCEL_FILE = path.join(__dirname, 'HM_Rug_Master_Complete.xlsx');
 const OUTPUT_FILE = path.join(__dirname, 'public', 'data.json');
+
+// Helper function to find the Excel file (try new name first, fall back to old one)
+function getExcelFilePath() {
+  const newFile = path.join(__dirname, 'HM_Rug_Master.xlsx');
+  const oldFile = path.join(__dirname, 'HM_Rug_Master_Complete.xlsx');
+  
+  if (fs.existsSync(newFile)) {
+    return newFile;
+  } else if (fs.existsSync(oldFile)) {
+    return oldFile;
+  } else {
+    // Default to new filename for error message
+    return newFile;
+  }
+}
 
 // Required columns (must exist)
 const REQUIRED_COLUMNS = [
   'Vendor',
   'Collection Name',
-  'Design ID',
+  'VPN',
   'Size',
   'Primary Color',
   'UPC',
-  'Retail Price'
+  'Retail'
 ];
 
 // Optional columns (nice to have, but not required)
 const OPTIONAL_COLUMNS = [
-  'HM SKU'  // Can be empty for many rows
+  'product_id'  // Can be empty for many rows
 ];
 
 function convertExcelToJson() {
   try {
     console.log('📖 Reading Excel file...');
     
+    // Get the Excel file path (tries new name first, falls back to old)
+    const EXCEL_FILE = getExcelFilePath();
+    
     // Check if Excel file exists
     if (!fs.existsSync(EXCEL_FILE)) {
-      throw new Error(`Excel file not found: ${EXCEL_FILE}`);
+      throw new Error(`Excel file not found. Looking for: HM_Rug_Master.xlsx or HM_Rug_Master_Complete.xlsx`);
     }
+
+    console.log(`📄 Using file: ${path.basename(EXCEL_FILE)}`);
 
     // Read the Excel file
     const workbook = XLSX.readFile(EXCEL_FILE);
@@ -90,11 +114,11 @@ function convertExcelToJson() {
     
     console.log('✅ All required columns found');
     
-    // Check if HM SKU column exists but is mostly empty (which is expected)
-    if (actualColumns.includes('HM SKU')) {
-      const rowsWithHM_SKU = data.filter(row => row['HM SKU'] && row['HM SKU'].toString().trim() !== '').length;
-      const fillPercentage = ((rowsWithHM_SKU / data.length) * 100).toFixed(1);
-      console.log(`ℹ️  HM SKU column: ${rowsWithHM_SKU} of ${data.length} rows have values (${fillPercentage}%)`);
+    // Check if product_id column exists but is mostly empty (which is expected)
+    if (actualColumns.includes('product_id')) {
+      const rowsWithProductId = data.filter(row => row['product_id'] && row['product_id'].toString().trim() !== '').length;
+      const fillPercentage = ((rowsWithProductId / data.length) * 100).toFixed(1);
+      console.log(`ℹ️  product_id column: ${rowsWithProductId} of ${data.length} rows have values (${fillPercentage}%)`);
     }
 
     // Ensure output directory exists
