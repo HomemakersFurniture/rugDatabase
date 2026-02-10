@@ -11,8 +11,8 @@ This guide explains how to update the rug database when you have new data (e.g.,
    - Make sure it has the same column structure:
      - Vendor
      - Collection Name
-     - VPN (replaces Design ID)
      - Size
+     - VPN (replaces Design ID)
      - Primary Color
      - UPC
      - Retail (replaces Retail Price)

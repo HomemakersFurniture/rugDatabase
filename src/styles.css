@@ -225,6 +225,30 @@
   min-width: 150px;
 }
 
+.detail-table th.sortable {
+  user-select: none;
+}
+
+.detail-table th.sortable:hover {
+  background-color: rgba(255, 254, 252, 0.1);
+}
+
+.detail-table th.sortable::after {
+  content: ' ↕';
+  opacity: 0.5;
+  font-size: 0.8em;
+}
+
+.detail-table th.sort-asc::after {
+  content: ' ↑';
+  opacity: 1;
+}
+
+.detail-table th.sort-desc::after {
+  content: ' ↓';
+  opacity: 1;
+}
+
 .detail-table tbody tr {
   border-bottom: 1px solid #eee;
   transition: background-color 0.3s ease-in-out;

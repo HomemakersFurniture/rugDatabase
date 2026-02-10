@@ -8,6 +8,7 @@ function CollectionDetail() {
   const [loading, setLoading] = useState(true);
   const [selectedColor, setSelectedColor] = useState('');
   const [copiedId, setCopiedId] = useState(null);
+  const [sortConfig, setSortConfig] = useState({ key: null, direction: 'asc' });
   const timeoutRef = useRef(null);
 
   useEffect(() => {
@@ -52,11 +53,42 @@ function CollectionDetail() {
     }
   }, [colorData, selectedColor]);
 
-  // Filter data by selected color
+  // Filter data by selected color and apply sorting
   const filteredData = useMemo(() => {
     if (!selectedColor) return [];
-    return data.filter(item => item['Primary Color'] === selectedColor);
-  }, [data, selectedColor]);
+    let filtered = data.filter(item => item['Primary Color'] === selectedColor);
+
+    // Apply sorting if a column is selected
+    if (sortConfig.key) {
+      filtered.sort((a, b) => {
+        let aValue, bValue;
+
+        if (sortConfig.key === 'Size') {
+          aValue = a['Size'] || '';
+          bValue = b['Size'] || '';
+        } else if (sortConfig.key === 'Retail Price') {
+          aValue = a['Retail'] || 0;
+          bValue = b['Retail'] || 0;
+        }
+
+        // For numeric values (Retail Price)
+        if (typeof aValue === 'number' && typeof bValue === 'number') {
+          return sortConfig.direction === 'asc' ? aValue - bValue : bValue - aValue;
+        }
+
+        // For string values (Size) - use localeCompare for natural sorting
+        if (aValue < bValue) {
+          return sortConfig.direction === 'asc' ? -1 : 1;
+        }
+        if (aValue > bValue) {
+          return sortConfig.direction === 'asc' ? 1 : -1;
+        }
+        return 0;
+      });
+    }
+
+    return filtered;
+  }, [data, selectedColor, sortConfig]);
 
   // Get collection info
   const collectionInfo = useMemo(() => {
@@ -93,6 +125,14 @@ function CollectionDetail() {
     } catch (err) {
       console.error('Failed to copy text: ', err);
     }
+  };
+
+  // Handle sorting
+  const handleSort = (key) => {
+    setSortConfig(prevConfig => ({
+      key,
+      direction: prevConfig.key === key && prevConfig.direction === 'asc' ? 'desc' : 'asc'
+    }));
   };
 
   // Handle keyboard events for accessibility
@@ -151,9 +191,22 @@ function CollectionDetail() {
       <table className="detail-table">
         <thead>
           <tr>
-            {tableColumns.map((column, index) => (
-              <th key={index}>{column}</th>
-            ))}
+            {tableColumns.map((column, index) => {
+              const isSortable = column === 'Size' || column === 'Retail Price';
+              const isSorted = sortConfig.key === column;
+              const sortClass = isSorted ? `sortable sort-${sortConfig.direction}` : 'sortable';
+
+              return (
+                <th
+                  key={index}
+                  className={isSortable ? sortClass : ''}
+                  onClick={isSortable ? () => handleSort(column) : undefined}
+                  style={isSortable ? { cursor: 'pointer' } : {}}
+                >
+                  {column}
+                </th>
+              );
+            })}
           </tr>
         </thead>
         <tbody>
