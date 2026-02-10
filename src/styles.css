@@ -221,6 +221,10 @@
   font-size: 1rem;
 }
 
+.detail-table th:first-child {
+  min-width: 150px;
+}
+
 .detail-table tbody tr {
   border-bottom: 1px solid #eee;
   transition: background-color 0.3s ease-in-out;
@@ -253,6 +257,7 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  min-width: 0;
 }
 
 .order-id-button {
@@ -265,6 +270,7 @@
   border-radius: 6px;
   transition: all 0.5s ease-in-out;
   position: relative;
+  min-width: fit-content;
 }
 
 .order-id-button.copied {
@@ -277,6 +283,16 @@
   color: #332A2A;
   font-weight: 400;
   font-family: 'Lato', sans-serif;
+  display: inline-block;
+}
+
+.order-id-text::after {
+  content: attr(data-text);
+  font-weight: 700;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
 }
 
 .order-id-button.copied .order-id-text {

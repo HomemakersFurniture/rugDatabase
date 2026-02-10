@@ -190,7 +190,7 @@ function CollectionDetail() {
                     >
                       {displayValue !== 'N/A' ? (
                         <div className={`order-id-button ${isCopied ? 'copied' : ''}`}>
-                          <span className="order-id-text">{displayValue}</span>
+                          <span className="order-id-text" data-text={displayValue}>{displayValue}</span>
                           <svg 
                             width="15" 
                             height="15" 
