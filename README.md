@@ -45,6 +45,17 @@ The application uses `HM_Rug_Master_Complete.xlsx` which has been converted to `
 - Retail Price
 - HM SKU
 
+### Updating the Data
+
+To update the database with new rugs or price changes:
+
+1. Replace `HM_Rug_Master_Complete.xlsx` with your updated Excel file
+2. Run: `npm run convert-data`
+3. Test locally: `npm start`
+4. Build and deploy: `npm run build` then commit and push
+
+**See [DATA_UPDATE_GUIDE.md](DATA_UPDATE_GUIDE.md) for detailed instructions.**
+
 ## Deployment to GitHub Pages
 
 The app is configured for GitHub Pages deployment. The GitHub Actions workflow (`.github/workflows/deploy.yml`) will automatically build and deploy the app when you push to the `main` branch.

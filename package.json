@@ -11,11 +11,16 @@
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5"
   },
+  "devDependencies": {
+    "xlsx": "^0.18.5"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "convert-data": "node convert-excel-to-json.js",
+    "update-data": "npm run convert-data && npm run build"
   },
   "eslintConfig": {
     "extends": [
