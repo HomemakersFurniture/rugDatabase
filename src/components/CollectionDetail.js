@@ -27,7 +27,7 @@ function CollectionDetail() {
       });
   }, [collectionName]);
 
-  // Get unique colors and calculate size counts
+  // Get unique colors and calculate rug counts
   const colorData = useMemo(() => {
     const colorMap = {};
     
@@ -36,20 +36,16 @@ function CollectionDetail() {
       if (!colorMap[color]) {
         colorMap[color] = {
           color,
-          sizeCount: 0,
-          sizes: new Set()
+          rugCount: 0
         };
       }
-      if (item['Size']) {
-        colorMap[color].sizes.add(item['Size']);
-        colorMap[color].sizeCount = colorMap[color].sizes.size;
-      }
+      colorMap[color].rugCount++;
     });
 
-    return Object.values(colorMap).sort((a, b) => b.sizeCount - a.sizeCount);
+    return Object.values(colorMap).sort((a, b) => b.rugCount - a.rugCount);
   }, [data]);
 
-  // Set default color to the one with most sizes
+  // Set default color to the one with most rugs
   useEffect(() => {
     if (colorData.length > 0 && !selectedColor) {
       setSelectedColor(colorData[0].color);
@@ -143,7 +139,7 @@ function CollectionDetail() {
         >
           {colorData.map((colorInfo, index) => (
             <option key={index} value={colorInfo.color}>
-              {colorInfo.color} ({colorInfo.sizeCount} sizes)
+              {colorInfo.color} ({colorInfo.rugCount} {colorInfo.rugCount === 1 ? 'rug' : 'rugs'})
             </option>
           ))}
         </select>
