@@ -8,7 +8,7 @@ function CollectionDetail() {
   const [loading, setLoading] = useState(true);
   const [selectedColor, setSelectedColor] = useState('');
   const [copiedId, setCopiedId] = useState(null);
-  const [sortConfig, setSortConfig] = useState({ key: null, direction: 'asc' });
+  const [sortConfig, setSortConfig] = useState({ key: 'Retail Price', direction: 'asc' });
   const timeoutRef = useRef(null);
 
   useEffect(() => {
