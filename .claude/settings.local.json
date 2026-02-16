@@ -6,7 +6,8 @@
       "Bash(node:*)",
       "Bash(npm uninstall:*)",
       "Bash(npm install:*)",
-      "Bash(npx react-scripts build:*)"
+      "Bash(npx react-scripts build:*)",
+      "Bash(npm ci:*)"
     ]
   }
 }
