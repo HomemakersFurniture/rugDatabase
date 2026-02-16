@@ -6,24 +6,25 @@ This guide explains how to update the rug database when you have new data (e.g.,
 
 ### Option 1: Automated (Recommended)
 
-1. **Replace the Excel file**
-   - Replace `HM_Rug_Master.xlsx` (or `HM_Rug_Master_Complete.xlsx` for backwards compatibility) with your updated Excel file
+1. **Replace the CSV file**
+   - Replace `HM_Rug_Master.csv` with your updated CSV file
    - Make sure it has the same column structure:
      - Vendor
-     - Collection Name
+     - Collection
      - Size
-     - VPN (replaces Design ID)
+     - Design ID
+     - Long SKU - VPN
      - Primary Color
      - UPC
-     - Retail (replaces Retail Price)
-     - product_id (replaces HM SKU, optional)
+     - Retail (with or without $ sign and commas)
+     - Product_Id (optional)
 
 2. **Run the conversion script**
    ```bash
    npm run convert-data
    ```
    This will automatically:
-   - Convert the Excel file to JSON
+   - Convert the CSV file to JSON
    - Validate column names
    - Generate `public/data.json`
    - Show you how many rows were converted
@@ -59,23 +60,24 @@ git push
 
 ## What the Script Does
 
-The `convert-excel-to-json.js` script:
-- ✅ Reads your Excel file
-- ✅ Validates that expected columns exist
-- ✅ Converts to JSON format
-- ✅ Saves to `public/data.json`
-- ✅ Shows you statistics (row count, file size)
-- ✅ Warns if columns are missing
+The `convert-csv-to-json.js` script:
+- Reads your CSV file
+- Validates that expected columns exist
+- Maps CSV column names to internal JSON field names
+- Strips `$` and commas from Retail prices and converts to numbers
+- Saves to `public/data.json`
+- Shows you statistics (row count, file size)
+- Warns if columns are missing
 
 ## Troubleshooting
 
-### "Excel file not found"
-- Make sure `HM_Rug_Master_Complete.xlsx` is in the root directory
+### "CSV file not found"
+- Make sure `HM_Rug_Master.csv` is in the root directory
 - Check the filename matches exactly (case-sensitive)
 
 ### "Some expected columns are missing"
-- The script will still work, but you may need to update the code if you're using those columns
-- Check that your Excel file has the same column headers
+- The script will tell you which columns are missing
+- Check that your CSV file has the correct column headers
 
 ### Large files (3k+ rugs)
 - The script handles large files efficiently
@@ -84,22 +86,24 @@ The `convert-excel-to-json.js` script:
 
 ## Column Requirements
 
-Your Excel file must have these columns (exact names):
+Your CSV file must have these columns (exact names):
 - `Vendor` - Brand name
-- `Collection Name` - Collection identifier
-- `VPN` - Vendor Product Number (replaces Design ID)
+- `Collection` - Collection identifier
 - `Size` - Rug size
+- `Design ID` - Design identifier (e.g., ANT740)
+- `Long SKU - VPN` - Vendor Product Number
 - `Primary Color` - Color name
 - `UPC` - Universal Product Code
-- `Retail` - Price (number, replaces Retail Price)
-- `product_id` - Product identifier (optional, can be empty, replaces HM SKU)
+- `Retail` - Price (can include $ and commas, e.g., "$1,079.99")
+- `Product_Id` - Product identifier (optional, can be empty)
 
 ## Notes
 
-- The Excel file is **not** deployed to the website (only the JSON is)
-- You can keep the Excel file in the repository or add it to `.gitignore` if it's too large
+- The CSV file is **not** deployed to the website (only the JSON is)
+- You can keep the CSV file in the repository or add it to `.gitignore` if it's too large
 - The conversion script preserves all data types (numbers stay numbers, strings stay strings)
-- Empty cells become `null` or empty strings in JSON
+- Empty cells become empty strings in JSON
+- The Retail column is automatically cleaned ($ and commas removed) and converted to a number
 
 ## Future Improvements
 
@@ -108,4 +112,3 @@ If you need to update data frequently, consider:
 - Using a database instead of JSON for very large datasets
 - Adding data validation rules
 - Creating a web interface for updates
-

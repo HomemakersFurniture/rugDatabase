@@ -128,7 +128,8 @@
 .detail-header h2 {
   font-size: 1.5rem;
   opacity: 0.9;
-  font-weight: 400;
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
 }
 
 .back-button {
@@ -153,6 +154,12 @@
   padding: var(--space-4);
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(224, 81, 73, 0.2);
+}
+
+.single-color-label {
+  color: #333;
+  font-size: 1.1rem;
+  margin: 0;
 }
 
 .order-instruction {
@@ -351,6 +358,28 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   z-index: 10;
   pointer-events: none;
+}
+
+/* Not Found Page */
+.not-found-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--space-6) var(--space-5);
+  padding-bottom: 25vh;
+  text-align: center;
+}
+
+.not-found-container h1 {
+  font-size: 6rem;
+  color: #CD4941;
+  margin-bottom: var(--space-2);
+}
+
+.not-found-container p {
+  font-size: 1.25rem;
+  color: #333;
+  margin-bottom: var(--space-5);
 }
 
 .loading {

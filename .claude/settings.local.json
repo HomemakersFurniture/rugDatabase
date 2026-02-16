@@ -3,7 +3,10 @@
     "allow": [
       "Bash(node -e:*)",
       "Bash(node -p:*)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(npm install:*)",
+      "Bash(npx react-scripts build:*)"
     ]
   }
 }
