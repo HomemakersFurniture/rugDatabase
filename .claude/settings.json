@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/alexiswaters/repos/homemakersRugDatabase status package-lock.json)"
+    ]
+  }
+}
