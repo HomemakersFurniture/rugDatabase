@@ -7,7 +7,17 @@
       "Bash(npm uninstall:*)",
       "Bash(npm install:*)",
       "Bash(npx react-scripts build:*)",
-      "Bash(npm ci:*)"
+      "Bash(npm ci:*)",
+      "mcp__figma-console__figma_get_status",
+      "mcp__figma-console__figma_list_open_files",
+      "mcp__figma-console__figma_get_design_system_summary",
+      "mcp__figma-console__figma_get_file_data",
+      "mcp__figma-console__figma_get_styles",
+      "mcp__figma-console__figma_get_variables",
+      "mcp__figma-console__figma_get_component_for_development",
+      "mcp__figma-console__figma_get_component_image",
+      "mcp__figma-console__figma_get_component_details",
+      "mcp__figma-console__figma_search_components"
     ]
   }
 }

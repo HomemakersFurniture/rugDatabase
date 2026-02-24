@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A database website built to facilitate custom orders",
   "private": true,
-  "homepage": "https://alexiswaters.github.io/homemakersRugDatabase",
+  "homepage": "https://homemakersfurniture.github.io/rugDatabase",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
