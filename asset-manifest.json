@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/rugDatabase/static/css/main.4199c3e6.css",
+    "main.css": "/rugDatabase/static/css/main.906a5d39.css",
     "main.js": "/rugDatabase/static/js/main.2949879b.js",
     "index.html": "/rugDatabase/index.html",
     "static/media/chevronDown-xs-outlined.svg": "/rugDatabase/static/media/chevronDown-xs-outlined.7591832368073037de29.svg",
-    "main.4199c3e6.css.map": "/rugDatabase/static/css/main.4199c3e6.css.map",
+    "main.906a5d39.css.map": "/rugDatabase/static/css/main.906a5d39.css.map",
     "main.2949879b.js.map": "/rugDatabase/static/js/main.2949879b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4199c3e6.css",
+    "static/css/main.906a5d39.css",
     "static/js/main.2949879b.js"
   ]
 }
