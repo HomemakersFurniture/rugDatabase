@@ -451,5 +451,36 @@
   .detail-table td {
     padding: 0.75rem 0.5rem;
   }
+
+  .detail-table {
+    table-layout: fixed;
+  }
+
+  .detail-table th:first-child {
+    min-width: 0;
+    width: 50%;
+  }
+
+  .order-id-button {
+    min-width: 0;
+    max-width: 100%;
+    overflow: hidden;
+  }
+
+  .order-id-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 389px) {
+  .collections-table th,
+  .collections-table td,
+  .detail-table th,
+  .detail-table td {
+    font-size: clamp(0.625rem, 3.5vw, 0.75rem);
+  }
 }
 
