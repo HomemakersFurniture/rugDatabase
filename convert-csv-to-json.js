@@ -78,7 +78,7 @@ function convertCsvToJson() {
     console.log(`📄 Using file: ${path.basename(CSV_FILE)}`);
 
     // Read and parse CSV
-    const csvContent = fs.readFileSync(CSV_FILE, 'utf8');
+    const csvContent = fs.readFileSync(CSV_FILE, 'utf8').replace(/^\uFEFF/, '');
     const records = parse(csvContent, {
       columns: true,
       skip_empty_lines: true,
