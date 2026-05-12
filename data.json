@@ -212578,6 +212578,28 @@
     "Vendor": "Feizy",
     "Collection Name": "Azure",
     "Size": "5' x 8'",
+    "Design ID": "3539F-Gray_Blue",
+    "VPN": "AZR3539FGRYBLUE10",
+    "Primary Color": "Gray/Blue",
+    "UPC": "654291863037",
+    "Retail": 229.99,
+    "product_id": "664998"
+  },
+  {
+    "Vendor": "Feizy",
+    "Collection Name": "Azure",
+    "Size": "10' x 13'2\"",
+    "Design ID": "3539F-Gray_Blue",
+    "VPN": "AZR3539FGRYBLUH13",
+    "Primary Color": "Gray/Blue",
+    "UPC": "654291863358",
+    "Retail": 779.99,
+    "product_id": "665006"
+  },
+  {
+    "Vendor": "Feizy",
+    "Collection Name": "Azure",
+    "Size": "5' x 8'",
     "Design ID": "AZR3405F-Ivory_Gray_Blue",
     "VPN": "AZR3405FSLVBLUE10",
     "Primary Color": "Ivory/Gray/Blue",
