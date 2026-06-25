@@ -210509,17 +210509,6 @@
   {
     "Vendor": "Feizy",
     "Collection Name": "LUNA",
-    "Size": "5' x 8'",
-    "Design ID": "5798049F-BLACK",
-    "VPN": "5798049FBLK000E10",
-    "Primary Color": "BLACK",
-    "UPC": "654291681624",
-    "Retail": 289.99,
-    "product_id": "336S"
-  },
-  {
-    "Vendor": "Feizy",
-    "Collection Name": "LUNA",
     "Size": "8' X 11'",
     "Design ID": "5798049F-BLACK",
     "VPN": "5798049FBLK000G99",
@@ -210714,17 +210703,6 @@
     "UPC": "654291056286",
     "Retail": 289.99,
     "product_id": ""
-  },
-  {
-    "Vendor": "Feizy",
-    "Collection Name": "LUNA",
-    "Size": "8' X 11'",
-    "Design ID": "5798049F-CAMEL",
-    "VPN": "5798049FCML000G99",
-    "Primary Color": "CAMEL",
-    "UPC": "654291056293",
-    "Retail": 579.99,
-    "product_id": "23315S"
   },
   {
     "Vendor": "Feizy",
@@ -211202,17 +211180,6 @@
   {
     "Vendor": "Feizy",
     "Collection Name": "LUNA",
-    "Size": "5' x 8'",
-    "Design ID": "5798049F-ORANGE",
-    "VPN": "5798049FORN000E10",
-    "Primary Color": "ORANGE",
-    "UPC": "654291906253",
-    "Retail": 289.99,
-    "product_id": "337S"
-  },
-  {
-    "Vendor": "Feizy",
-    "Collection Name": "LUNA",
     "Size": "8' X 11'",
     "Design ID": "5798049F-ORANGE",
     "VPN": "5798049FORN000G99",
@@ -211297,28 +211264,6 @@
     "UPC": "654291678518",
     "Retail": 139.99,
     "product_id": ""
-  },
-  {
-    "Vendor": "Feizy",
-    "Collection Name": "LUNA",
-    "Size": "5' x 8'",
-    "Design ID": "5798049F-RED",
-    "VPN": "5798049FRED000E10",
-    "Primary Color": "RED",
-    "UPC": "654291678617",
-    "Retail": 289.99,
-    "product_id": "339S"
-  },
-  {
-    "Vendor": "Feizy",
-    "Collection Name": "LUNA",
-    "Size": "8' X 11'",
-    "Design ID": "5798049F-RED",
-    "VPN": "5798049FRED000G99",
-    "Primary Color": "RED",
-    "UPC": "654291678716",
-    "Retail": 579.99,
-    "product_id": "23316S"
   },
   {
     "Vendor": "Feizy",
@@ -211594,17 +211539,6 @@
     "UPC": "654291681563",
     "Retail": 139.99,
     "product_id": ""
-  },
-  {
-    "Vendor": "Feizy",
-    "Collection Name": "LUNA",
-    "Size": "5' x 8'",
-    "Design ID": "5798049F-TEAL",
-    "VPN": "5798049FTEL000E10",
-    "Primary Color": "TEAL",
-    "UPC": "654291681600",
-    "Retail": 289.99,
-    "product_id": "340S"
   },
   {
     "Vendor": "Feizy",
