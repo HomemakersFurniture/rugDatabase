@@ -834791,17 +834791,6 @@
   },
   {
     "Vendor": "Ashley",
-    "Collection Name": "Kencher",
-    "Size": "8' x 10'",
-    "Design ID": "Kencher",
-    "VPN": "13565S",
-    "Primary Color": "",
-    "UPC": "024052891447",
-    "Retail": 319.99,
-    "product_id": "13565S"
-  },
-  {
-    "Vendor": "Ashley",
     "Collection Name": "Jarrpage",
     "Size": "8' x 10'",
     "Design ID": "Jarrpage",
@@ -834810,6 +834799,17 @@
     "UPC": "024052872002",
     "Retail": 149.99,
     "product_id": "1009360S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Kencher",
+    "Size": "8' x 10'",
+    "Design ID": "Kencher",
+    "VPN": "13565S",
+    "Primary Color": "",
+    "UPC": "024052891447",
+    "Retail": 319.99,
+    "product_id": "13565S"
   },
   {
     "Vendor": "Ashley",
@@ -834901,6 +834901,17 @@
   },
   {
     "Vendor": "Ashley",
+    "Collection Name": "Malvinsboro",
+    "Size": "5' x 7'",
+    "Design ID": "Malvinsboro",
+    "VPN": "1005416S",
+    "Primary Color": "",
+    "UPC": "024052933949",
+    "Retail": 139.99,
+    "product_id": "1005416S"
+  },
+  {
+    "Vendor": "Ashley",
     "Collection Name": "Wraylen",
     "Size": "5.3' x 7'",
     "Design ID": "Wraylen",
@@ -834920,17 +834931,6 @@
     "UPC": "024052871746",
     "Retail": 129.99,
     "product_id": "1009362S"
-  },
-  {
-    "Vendor": "Ashley",
-    "Collection Name": "Malvinsboro",
-    "Size": "5' x 7'",
-    "Design ID": "Malvinsboro",
-    "VPN": "1005416S",
-    "Primary Color": "",
-    "UPC": "024052933949",
-    "Retail": 139.99,
-    "product_id": "1005416S"
   },
   {
     "Vendor": "Ashley",
@@ -835298,17 +835298,6 @@
   {
     "Vendor": "Ashley",
     "Collection Name": "Clayman",
-    "Size": "9' x 12'",
-    "Design ID": "Clayman",
-    "VPN": "1010139S",
-    "Primary Color": "",
-    "UPC": "024052967241",
-    "Retail": 799.99,
-    "product_id": "1010139S"
-  },
-  {
-    "Vendor": "Ashley",
-    "Collection Name": "Clayman",
     "Size": "8' x 10'",
     "Design ID": "Clayman",
     "VPN": "1010137S",
@@ -835418,6 +835407,17 @@
   },
   {
     "Vendor": "Ashley",
+    "Collection Name": "Clayman",
+    "Size": "9' x 12'",
+    "Design ID": "Clayman",
+    "VPN": "1010139S",
+    "Primary Color": "",
+    "UPC": "024052967241",
+    "Retail": 799.99,
+    "product_id": "1010139S"
+  },
+  {
+    "Vendor": "Ashley",
     "Collection Name": "Fenriston",
     "Size": "5' x 8'",
     "Design ID": "Fenriston",
@@ -835506,6 +835506,17 @@
   },
   {
     "Vendor": "Ashley",
+    "Collection Name": "Leesdale",
+    "Size": "5' x 7'",
+    "Design ID": "Leesdale",
+    "VPN": "14321S",
+    "Primary Color": "",
+    "UPC": "024052872552",
+    "Retail": 119.99,
+    "product_id": "14321S"
+  },
+  {
+    "Vendor": "Ashley",
     "Collection Name": "Kilkenny",
     "Size": "5.3' x 7.3'",
     "Design ID": "Kilkenny",
@@ -835525,28 +835536,6 @@
     "UPC": "024052872590",
     "Retail": 99.99,
     "product_id": "1002280S"
-  },
-  {
-    "Vendor": "Ashley",
-    "Collection Name": "Leesdale",
-    "Size": "5' x 7'",
-    "Design ID": "Leesdale",
-    "VPN": "14321S",
-    "Primary Color": "",
-    "UPC": "024052872552",
-    "Retail": 119.99,
-    "product_id": "14321S"
-  },
-  {
-    "Vendor": "Ashley",
-    "Collection Name": "Vinlett",
-    "Size": "8' x 10'",
-    "Design ID": "Vinlett",
-    "VPN": "1000698S",
-    "Primary Color": "",
-    "UPC": "024052913903",
-    "Retail": 159.99,
-    "product_id": "1000698S"
   },
   {
     "Vendor": "Ashley",
@@ -835580,6 +835569,17 @@
     "UPC": "024052924831",
     "Retail": 79.99,
     "product_id": "1000353S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Vinlett",
+    "Size": "8' x 10'",
+    "Design ID": "Vinlett",
+    "VPN": "1000698S",
+    "Primary Color": "",
+    "UPC": "024052913903",
+    "Retail": 159.99,
+    "product_id": "1000698S"
   },
   {
     "Vendor": "Ashley",
@@ -836199,6 +836199,28 @@
   },
   {
     "Vendor": "Ashley",
+    "Collection Name": "Gerdie",
+    "Size": "5.3' x 7.3'",
+    "Design ID": "Gerdie",
+    "VPN": "607368",
+    "Primary Color": "",
+    "UPC": "024052788815",
+    "Retail": 88.99,
+    "product_id": "607368"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Leonelle",
+    "Size": "7.10' x 10'",
+    "Design ID": "Leonelle",
+    "VPN": "607369",
+    "Primary Color": "",
+    "UPC": "024052788570",
+    "Retail": 199.99,
+    "product_id": "607369"
+  },
+  {
+    "Vendor": "Ashley",
     "Collection Name": "Wrenstow",
     "Size": "7.10' x 10.3'",
     "Design ID": "Wrenstow",
@@ -836240,28 +836262,6 @@
     "UPC": "024052933802",
     "Retail": 179.99,
     "product_id": "1006467S"
-  },
-  {
-    "Vendor": "Ashley",
-    "Collection Name": "Gerdie",
-    "Size": "5.3' x 7.3'",
-    "Design ID": "Gerdie",
-    "VPN": "607368",
-    "Primary Color": "",
-    "UPC": "024052788815",
-    "Retail": 88.99,
-    "product_id": "607368"
-  },
-  {
-    "Vendor": "Ashley",
-    "Collection Name": "Leonelle",
-    "Size": "7.10' x 10'",
-    "Design ID": "Leonelle",
-    "VPN": "607369",
-    "Primary Color": "",
-    "UPC": "024052788570",
-    "Retail": 199.99,
-    "product_id": "607369"
   },
   {
     "Vendor": "Ashley",
@@ -836537,17 +836537,6 @@
     "UPC": "194216039319",
     "Retail": 229.99,
     "product_id": "18108S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Tan Tupelo Tessa-CTOR",
-    "Size": "8' x 10'",
-    "Design ID": "Tan Tupelo Tessa-CTOR",
-    "VPN": "1008639S",
-    "Primary Color": "",
-    "UPC": "194216181179",
-    "Retail": 349.99,
-    "product_id": "1008639S"
   },
   {
     "Vendor": "Central Oriental",
@@ -836838,6 +836827,17 @@
   {
     "Vendor": "Central Oriental",
     "Collection Name": "Tan Tupelo Tessa-CTOR",
+    "Size": "8' x 10'",
+    "Design ID": "Tan Tupelo Tessa-CTOR",
+    "VPN": "1008639S",
+    "Primary Color": "",
+    "UPC": "194216181179",
+    "Retail": 349.99,
+    "product_id": "1008639S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Tan Tupelo Tessa-CTOR",
     "Size": "5' x 8'",
     "Design ID": "Tan Tupelo Tessa-CTOR",
     "VPN": "1008638S",
@@ -836914,17 +836914,6 @@
   },
   {
     "Vendor": "Central Oriental",
-    "Collection Name": "Xander-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Xander-CTOR",
-    "VPN": "1003498S",
-    "Primary Color": "",
-    "UPC": "194216099047",
-    "Retail": 159.99,
-    "product_id": "1003498S"
-  },
-  {
-    "Vendor": "Central Oriental",
     "Collection Name": "Grove Callen-CTOR",
     "Size": "8' x 10'",
     "Design ID": "Grove Callen-CTOR",
@@ -836944,6 +836933,17 @@
     "UPC": "194216181209",
     "Retail": 189.99,
     "product_id": "1008642S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Xander-CTOR",
+    "Size": "5' x 8'",
+    "Design ID": "Xander-CTOR",
+    "VPN": "1003498S",
+    "Primary Color": "",
+    "UPC": "194216099047",
+    "Retail": 159.99,
+    "product_id": "1003498S"
   },
   {
     "Vendor": "Central Oriental",
@@ -837728,17 +837728,6 @@
   },
   {
     "Vendor": "Central Oriental",
-    "Collection Name": "Reyna-CTOR",
-    "Size": "7.10' x 9.10'",
-    "Design ID": "Reyna-CTOR",
-    "VPN": "14563S",
-    "Primary Color": "",
-    "UPC": "194216062171",
-    "Retail": 429.99,
-    "product_id": "14563S"
-  },
-  {
-    "Vendor": "Central Oriental",
     "Collection Name": "Reni-CTOR",
     "Size": "5' x 7.6'",
     "Design ID": "Reni-CTOR",
@@ -837758,17 +837747,6 @@
     "UPC": "194216054985",
     "Retail": 429.99,
     "product_id": "14625S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Silas-CTOR",
-    "Size": "7.10' x 9.10'",
-    "Design ID": "Silas-CTOR",
-    "VPN": "14627S",
-    "Primary Color": "",
-    "UPC": "194216054961",
-    "Retail": 429.99,
-    "product_id": "14627S"
   },
   {
     "Vendor": "Central Oriental",
@@ -837948,6 +837926,17 @@
   },
   {
     "Vendor": "Central Oriental",
+    "Collection Name": "Reyna-CTOR",
+    "Size": "7.10' x 9.10'",
+    "Design ID": "Reyna-CTOR",
+    "VPN": "14563S",
+    "Primary Color": "",
+    "UPC": "194216062171",
+    "Retail": 429.99,
+    "product_id": "14563S"
+  },
+  {
+    "Vendor": "Central Oriental",
     "Collection Name": "Silas-CTOR",
     "Size": "5' x 7.6'",
     "Design ID": "Silas-CTOR",
@@ -837956,6 +837945,17 @@
     "UPC": "194216054954",
     "Retail": 209.99,
     "product_id": "14626S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Silas-CTOR",
+    "Size": "7.10' x 9.10'",
+    "Design ID": "Silas-CTOR",
+    "VPN": "14627S",
+    "Primary Color": "",
+    "UPC": "194216054961",
+    "Retail": 429.99,
+    "product_id": "14627S"
   },
   {
     "Vendor": "Central Oriental",
@@ -838011,6 +838011,17 @@
     "UPC": "194216181315",
     "Retail": 239.99,
     "product_id": "1008669S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Tropical Melbourne-CTOR",
+    "Size": "8' x 10'",
+    "Design ID": "Tropical Melbourne-CTOR",
+    "VPN": "1002896S",
+    "Primary Color": "",
+    "UPC": "194216008889",
+    "Retail": 189.99,
+    "product_id": "1002896S"
   },
   {
     "Vendor": "Central Oriental",
@@ -838121,17 +838132,6 @@
     "UPC": "194216093748",
     "Retail": 429.99,
     "product_id": "14685S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Tropical Melbourne-CTOR",
-    "Size": "8' x 10'",
-    "Design ID": "Tropical Melbourne-CTOR",
-    "VPN": "1002896S",
-    "Primary Color": "",
-    "UPC": "194216008889",
-    "Retail": 189.99,
-    "product_id": "1002896S"
   },
   {
     "Vendor": "Central Oriental",
@@ -838385,6 +838385,72 @@
     "UPC": "194216163649",
     "Retail": 399.99,
     "product_id": "1003448S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Drk Velventeen-CTOR",
+    "Size": "2.3' x 6'",
+    "Design ID": "Drk Velventeen-CTOR",
+    "VPN": "15347S",
+    "Primary Color": "",
+    "UPC": "194216098873",
+    "Retail": 59.99,
+    "product_id": "15347S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Lt Velventeen-CTOR",
+    "Size": "5' x 8'",
+    "Design ID": "Lt Velventeen-CTOR",
+    "VPN": "15352S",
+    "Primary Color": "",
+    "UPC": "194216063918",
+    "Retail": 129.99,
+    "product_id": "15352S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Melbourne Blue-CTOR",
+    "Size": "3' x 5'",
+    "Design ID": "Melbourne Blue-CTOR",
+    "VPN": "1002834S",
+    "Primary Color": "",
+    "UPC": "194216079988",
+    "Retail": 49.99,
+    "product_id": "1002834S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Gray Velventeen-CTOR",
+    "Size": "5' x 8'",
+    "Design ID": "Gray Velventeen-CTOR",
+    "VPN": "15346S",
+    "Primary Color": "",
+    "UPC": "194216063833",
+    "Retail": 129.99,
+    "product_id": "15346S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Drk Velventeen-CTOR",
+    "Size": "5' x 8'",
+    "Design ID": "Drk Velventeen-CTOR",
+    "VPN": "15349S",
+    "Primary Color": "",
+    "UPC": "194216063895",
+    "Retail": 129.99,
+    "product_id": "15349S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Lt Velventeen-CTOR",
+    "Size": "2.3' x 6'",
+    "Design ID": "Lt Velventeen-CTOR",
+    "VPN": "15351S",
+    "Primary Color": "",
+    "UPC": "194216098880",
+    "Retail": 59.99,
+    "product_id": "15351S"
   },
   {
     "Vendor": "Central Oriental",
@@ -838649,71 +838715,5 @@
     "UPC": "194216164158",
     "Retail": 429.99,
     "product_id": "1005358S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Drk Velventeen-CTOR",
-    "Size": "2.3' x 6'",
-    "Design ID": "Drk Velventeen-CTOR",
-    "VPN": "15347S",
-    "Primary Color": "",
-    "UPC": "194216098873",
-    "Retail": 59.99,
-    "product_id": "15347S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Lt Velventeen-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Lt Velventeen-CTOR",
-    "VPN": "15352S",
-    "Primary Color": "",
-    "UPC": "194216063918",
-    "Retail": 129.99,
-    "product_id": "15352S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Melbourne Blue-CTOR",
-    "Size": "3' x 5'",
-    "Design ID": "Melbourne Blue-CTOR",
-    "VPN": "1002834S",
-    "Primary Color": "",
-    "UPC": "194216079988",
-    "Retail": 49.99,
-    "product_id": "1002834S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Gray Velventeen-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Gray Velventeen-CTOR",
-    "VPN": "15346S",
-    "Primary Color": "",
-    "UPC": "194216063833",
-    "Retail": 129.99,
-    "product_id": "15346S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Drk Velventeen-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Drk Velventeen-CTOR",
-    "VPN": "15349S",
-    "Primary Color": "",
-    "UPC": "194216063895",
-    "Retail": 129.99,
-    "product_id": "15349S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Lt Velventeen-CTOR",
-    "Size": "2.3' x 6'",
-    "Design ID": "Lt Velventeen-CTOR",
-    "VPN": "15351S",
-    "Primary Color": "",
-    "UPC": "194216098880",
-    "Retail": 59.99,
-    "product_id": "15351S"
   }
 ]
