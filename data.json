@@ -834835,17 +834835,6 @@
   },
   {
     "Vendor": "Ashley",
-    "Collection Name": "Sethburn",
-    "Size": "4.10' x 7.2'",
-    "Design ID": "Sethburn",
-    "VPN": "7992S",
-    "Primary Color": "",
-    "UPC": "024052879124",
-    "Retail": 79.99,
-    "product_id": "7992S"
-  },
-  {
-    "Vendor": "Ashley",
     "Collection Name": "Gerdie",
     "Size": "7.10' x 10'",
     "Design ID": "Gerdie",
@@ -834854,6 +834843,17 @@
     "UPC": "024052788808",
     "Retail": 177.99,
     "product_id": "607365"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Sethburn",
+    "Size": "4.10' x 7.2'",
+    "Design ID": "Sethburn",
+    "VPN": "7992S",
+    "Primary Color": "",
+    "UPC": "024052879124",
+    "Retail": 79.99,
+    "product_id": "7992S"
   },
   {
     "Vendor": "Ashley",
@@ -834901,17 +834901,6 @@
   },
   {
     "Vendor": "Ashley",
-    "Collection Name": "Malvinsboro",
-    "Size": "5' x 7'",
-    "Design ID": "Malvinsboro",
-    "VPN": "1005416S",
-    "Primary Color": "",
-    "UPC": "024052933949",
-    "Retail": 139.99,
-    "product_id": "1005416S"
-  },
-  {
-    "Vendor": "Ashley",
     "Collection Name": "Wraylen",
     "Size": "5.3' x 7'",
     "Design ID": "Wraylen",
@@ -834931,6 +834920,17 @@
     "UPC": "024052871746",
     "Retail": 129.99,
     "product_id": "1009362S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Malvinsboro",
+    "Size": "5' x 7'",
+    "Design ID": "Malvinsboro",
+    "VPN": "1005416S",
+    "Primary Color": "",
+    "UPC": "024052933949",
+    "Retail": 139.99,
+    "product_id": "1005416S"
   },
   {
     "Vendor": "Ashley",
@@ -835506,17 +835506,6 @@
   },
   {
     "Vendor": "Ashley",
-    "Collection Name": "Leesdale",
-    "Size": "5' x 7'",
-    "Design ID": "Leesdale",
-    "VPN": "14321S",
-    "Primary Color": "",
-    "UPC": "024052872552",
-    "Retail": 119.99,
-    "product_id": "14321S"
-  },
-  {
-    "Vendor": "Ashley",
     "Collection Name": "Kilkenny",
     "Size": "5.3' x 7.3'",
     "Design ID": "Kilkenny",
@@ -835536,6 +835525,17 @@
     "UPC": "024052872590",
     "Retail": 99.99,
     "product_id": "1002280S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Leesdale",
+    "Size": "5' x 7'",
+    "Design ID": "Leesdale",
+    "VPN": "14321S",
+    "Primary Color": "",
+    "UPC": "024052872552",
+    "Retail": 119.99,
+    "product_id": "14321S"
   },
   {
     "Vendor": "Ashley",
@@ -835605,6 +835605,28 @@
   },
   {
     "Vendor": "Ashley",
+    "Collection Name": "Cayworth",
+    "Size": "5' x 7'",
+    "Design ID": "Cayworth",
+    "VPN": "17854S",
+    "Primary Color": "",
+    "UPC": "024052914016",
+    "Retail": 129.99,
+    "product_id": "17854S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Hessland",
+    "Size": "5' x 7'",
+    "Design ID": "Hessland",
+    "VPN": "17857S",
+    "Primary Color": "",
+    "UPC": "024052913934",
+    "Retail": 79.99,
+    "product_id": "17857S"
+  },
+  {
+    "Vendor": "Ashley",
     "Collection Name": "Faelyn",
     "Size": "5' x 7'",
     "Design ID": "Faelyn",
@@ -835657,17 +835679,6 @@
     "UPC": "024052891386",
     "Retail": 499.99,
     "product_id": "13559S"
-  },
-  {
-    "Vendor": "Ashley",
-    "Collection Name": "Anburgh",
-    "Size": "8' x 10'",
-    "Design ID": "Anburgh",
-    "VPN": "1000396S",
-    "Primary Color": "",
-    "UPC": "024052925289",
-    "Retail": 239.99,
-    "product_id": "1000396S"
   },
   {
     "Vendor": "Ashley",
@@ -835778,6 +835789,17 @@
     "UPC": "024052879247",
     "Retail": 99.99,
     "product_id": "14340S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Anburgh",
+    "Size": "8' x 10'",
+    "Design ID": "Anburgh",
+    "VPN": "1000396S",
+    "Primary Color": "",
+    "UPC": "024052925289",
+    "Retail": 239.99,
+    "product_id": "1000396S"
   },
   {
     "Vendor": "Ashley",
@@ -836287,28 +836309,6 @@
   },
   {
     "Vendor": "Ashley",
-    "Collection Name": "Cayworth",
-    "Size": "5' x 7'",
-    "Design ID": "Cayworth",
-    "VPN": "17854S",
-    "Primary Color": "",
-    "UPC": "024052914016",
-    "Retail": 129.99,
-    "product_id": "17854S"
-  },
-  {
-    "Vendor": "Ashley",
-    "Collection Name": "Hessland",
-    "Size": "5' x 7'",
-    "Design ID": "Hessland",
-    "VPN": "17857S",
-    "Primary Color": "",
-    "UPC": "024052913934",
-    "Retail": 79.99,
-    "product_id": "17857S"
-  },
-  {
-    "Vendor": "Ashley",
     "Collection Name": "Lambworth",
     "Size": "5.3' x 7'",
     "Design ID": "Lambworth",
@@ -836540,116 +836540,6 @@
   },
   {
     "Vendor": "Central Oriental",
-    "Collection Name": "Orange Grove Callen-CTOR",
-    "Size": "8' x 10'",
-    "Design ID": "Orange Grove Callen-CTOR",
-    "VPN": "1008664S",
-    "Primary Color": "",
-    "UPC": "194216181407",
-    "Retail": 489.99,
-    "product_id": "1008664S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Adley Jones Azure-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Adley Jones Azure-CTOR",
-    "VPN": "1008640S",
-    "Primary Color": "",
-    "UPC": "194216181193",
-    "Retail": 189.99,
-    "product_id": "1008640S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Gray Tupelo Tessa-CTOR",
-    "Size": "8' x 10'",
-    "Design ID": "Gray Tupelo Tessa-CTOR",
-    "VPN": "1008637S",
-    "Primary Color": "",
-    "UPC": "194216181162",
-    "Retail": 349.99,
-    "product_id": "1008637S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Adley Elizabeth-CTOR",
-    "Size": "8' x 10'",
-    "Design ID": "Adley Elizabeth-CTOR",
-    "VPN": "1008596S",
-    "Primary Color": "",
-    "UPC": "194216181254",
-    "Retail": 379.99,
-    "product_id": "1008596S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Cream Tupelo Farrah-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Cream Tupelo Farrah-CTOR",
-    "VPN": "1008633S",
-    "Primary Color": "",
-    "UPC": "194216181063",
-    "Retail": 169.99,
-    "product_id": "1008633S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Cream Tupelo Farrah-CTOR",
-    "Size": "8' x 10'",
-    "Design ID": "Cream Tupelo Farrah-CTOR",
-    "VPN": "1008628S",
-    "Primary Color": "",
-    "UPC": "194216181063",
-    "Retail": 349.99,
-    "product_id": "1008628S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Tupelo Farrah-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Tupelo Farrah-CTOR",
-    "VPN": "1008627S",
-    "Primary Color": "",
-    "UPC": "194216181056",
-    "Retail": 169.99,
-    "product_id": "1008627S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Rooted Laura-CTOR",
-    "Size": "8' x 10'",
-    "Design ID": "Rooted Laura-CTOR",
-    "VPN": "1008623S",
-    "Primary Color": "",
-    "UPC": "194216181520",
-    "Retail": 449.99,
-    "product_id": "1008623S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Rooted Nella-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Rooted Nella-CTOR",
-    "VPN": "1008620S",
-    "Primary Color": "",
-    "UPC": "194216181445",
-    "Retail": 209.99,
-    "product_id": "1008620S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Rooted Flora-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Rooted Flora-CTOR",
-    "VPN": "1008581S",
-    "Primary Color": "",
-    "UPC": "194216181421",
-    "Retail": 209.99,
-    "product_id": "1008581S"
-  },
-  {
-    "Vendor": "Central Oriental",
     "Collection Name": "Red Tulsa-CTOR",
     "Size": "5.3' x 7.6'",
     "Design ID": "Red Tulsa-CTOR",
@@ -836845,6 +836735,116 @@
     "UPC": "194216181100",
     "Retail": 169.99,
     "product_id": "1008638S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Orange Grove Callen-CTOR",
+    "Size": "8' x 10'",
+    "Design ID": "Orange Grove Callen-CTOR",
+    "VPN": "1008664S",
+    "Primary Color": "",
+    "UPC": "194216181407",
+    "Retail": 489.99,
+    "product_id": "1008664S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Adley Jones Azure-CTOR",
+    "Size": "5' x 8'",
+    "Design ID": "Adley Jones Azure-CTOR",
+    "VPN": "1008640S",
+    "Primary Color": "",
+    "UPC": "194216181193",
+    "Retail": 189.99,
+    "product_id": "1008640S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Gray Tupelo Tessa-CTOR",
+    "Size": "8' x 10'",
+    "Design ID": "Gray Tupelo Tessa-CTOR",
+    "VPN": "1008637S",
+    "Primary Color": "",
+    "UPC": "194216181162",
+    "Retail": 349.99,
+    "product_id": "1008637S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Adley Elizabeth-CTOR",
+    "Size": "8' x 10'",
+    "Design ID": "Adley Elizabeth-CTOR",
+    "VPN": "1008596S",
+    "Primary Color": "",
+    "UPC": "194216181254",
+    "Retail": 379.99,
+    "product_id": "1008596S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Cream Tupelo Farrah-CTOR",
+    "Size": "5' x 8'",
+    "Design ID": "Cream Tupelo Farrah-CTOR",
+    "VPN": "1008633S",
+    "Primary Color": "",
+    "UPC": "194216181063",
+    "Retail": 169.99,
+    "product_id": "1008633S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Cream Tupelo Farrah-CTOR",
+    "Size": "8' x 10'",
+    "Design ID": "Cream Tupelo Farrah-CTOR",
+    "VPN": "1008628S",
+    "Primary Color": "",
+    "UPC": "194216181063",
+    "Retail": 349.99,
+    "product_id": "1008628S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Tupelo Farrah-CTOR",
+    "Size": "5' x 8'",
+    "Design ID": "Tupelo Farrah-CTOR",
+    "VPN": "1008627S",
+    "Primary Color": "",
+    "UPC": "194216181056",
+    "Retail": 169.99,
+    "product_id": "1008627S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Rooted Laura-CTOR",
+    "Size": "8' x 10'",
+    "Design ID": "Rooted Laura-CTOR",
+    "VPN": "1008623S",
+    "Primary Color": "",
+    "UPC": "194216181520",
+    "Retail": 449.99,
+    "product_id": "1008623S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Rooted Nella-CTOR",
+    "Size": "5' x 8'",
+    "Design ID": "Rooted Nella-CTOR",
+    "VPN": "1008620S",
+    "Primary Color": "",
+    "UPC": "194216181445",
+    "Retail": 209.99,
+    "product_id": "1008620S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Rooted Flora-CTOR",
+    "Size": "5' x 8'",
+    "Design ID": "Rooted Flora-CTOR",
+    "VPN": "1008581S",
+    "Primary Color": "",
+    "UPC": "194216181421",
+    "Retail": 209.99,
+    "product_id": "1008581S"
   },
   {
     "Vendor": "Central Oriental",
@@ -838014,17 +838014,6 @@
   },
   {
     "Vendor": "Central Oriental",
-    "Collection Name": "Tropical Melbourne-CTOR",
-    "Size": "8' x 10'",
-    "Design ID": "Tropical Melbourne-CTOR",
-    "VPN": "1002896S",
-    "Primary Color": "",
-    "UPC": "194216008889",
-    "Retail": 189.99,
-    "product_id": "1002896S"
-  },
-  {
-    "Vendor": "Central Oriental",
     "Collection Name": "Santorini-CTOR",
     "Size": "5.3' x 7.7'",
     "Design ID": "Santorini-CTOR",
@@ -838132,6 +838121,17 @@
     "UPC": "194216093748",
     "Retail": 429.99,
     "product_id": "14685S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Tropical Melbourne-CTOR",
+    "Size": "8' x 10'",
+    "Design ID": "Tropical Melbourne-CTOR",
+    "VPN": "1002896S",
+    "Primary Color": "",
+    "UPC": "194216008889",
+    "Retail": 189.99,
+    "product_id": "1002896S"
   },
   {
     "Vendor": "Central Oriental",
