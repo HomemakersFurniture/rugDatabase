@@ -26694,7 +26694,7 @@
     "Primary Color": "Putty",
     "UPC": "195843417303",
     "Retail": 699.99,
-    "product_id": ""
+    "product_id": "1013368S"
   },
   {
     "Vendor": "Dalyn",
@@ -68208,7 +68208,7 @@
     "Primary Color": "Putty",
     "UPC": "198590591913",
     "Retail": 469.99,
-    "product_id": ""
+    "product_id": "1013370S"
   },
   {
     "Vendor": "Dalyn",
@@ -101175,7 +101175,7 @@
     "Primary Color": "Blue",
     "UPC": "198590466877",
     "Retail": 469.99,
-    "product_id": ""
+    "product_id": "1013369S"
   },
   {
     "Vendor": "Dalyn",
@@ -148860,7 +148860,7 @@
     "Primary Color": "Celery",
     "UPC": "199477547672",
     "Retail": 469.99,
-    "product_id": ""
+    "product_id": "1013366S"
   },
   {
     "Vendor": "Dalyn",
@@ -149553,7 +149553,7 @@
     "Primary Color": "Linen",
     "UPC": "199477547757",
     "Retail": 469.99,
-    "product_id": ""
+    "product_id": "1013367S"
   },
   {
     "Vendor": "Dalyn",
@@ -164381,7 +164381,7 @@
     "Primary Color": "Taupe",
     "UPC": "199477733280",
     "Retail": 559.99,
-    "product_id": ""
+    "product_id": "1013371S"
   },
   {
     "Vendor": "Dalyn",
@@ -221356,9 +221356,9 @@
     "Vendor": "Feizy",
     "Collection Name": "Pollock",
     "Size": "10' x 14'",
-    "Design ID": "8954F-IVORY_BEIGE",
+    "Design ID": "PLK8954F-Ivory_Brown_Tan",
     "VPN": "PLK8954FIVYBGEH00",
-    "Primary Color": "IVORY/BEIGE",
+    "Primary Color": "Ivory/Brown/Tan",
     "UPC": "654291006250",
     "Retail": 1319.99,
     "product_id": "10008S"
@@ -221367,9 +221367,9 @@
     "Vendor": "Feizy",
     "Collection Name": "Pollock",
     "Size": "9' x 12'",
-    "Design ID": "8954F-IVORY_BEIGE",
+    "Design ID": "PLK8954F-Ivory_Brown_Tan",
     "VPN": "PLK8954FIVYBGEG00",
-    "Primary Color": "IVORY/BEIGE",
+    "Primary Color": "Ivory/Brown/Tan",
     "UPC": "654291006243",
     "Retail": 989.99,
     "product_id": ""
@@ -836848,9 +836848,9 @@
   },
   {
     "Vendor": "Central Oriental",
-    "Collection Name": "Maisie-CTOR",
+    "Collection Name": "Structures-CTOR",
     "Size": "7.10' x 9.10'",
-    "Design ID": "Maisie-CTOR",
+    "Design ID": "Structures-CTOR",
     "VPN": "516905",
     "Primary Color": "",
     "UPC": "38698980908",
