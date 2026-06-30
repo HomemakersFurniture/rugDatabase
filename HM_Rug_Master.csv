@@ -2425,7 +2425,7 @@ Dalyn,Abruzzo,2' x 3',AZ1-Putty,AZ1PU2X3,Putty,195843416986,79.99,,
 Dalyn,Abruzzo,"2'3"" x 7'6""",AZ1-Putty,AZ1PU2X8,Putty,195843417068,199.99,,
 Dalyn,Abruzzo,"3'6"" x 5'6""",AZ1-Putty,AZ1PU4X6,Putty,195843417143,199.99,,
 Dalyn,Abruzzo,"5' x 7'6""",AZ1-Putty,AZ1PU5X8,Putty,195843417228,359.99,,
-Dalyn,Abruzzo,8' x 10',AZ1-Putty,AZ1PU8X10,Putty,195843417303,699.99,,
+Dalyn,Abruzzo,8' x 10',AZ1-Putty,AZ1PU8X10,Putty,195843417303,699.99,1013368S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Abruzzo/AZ1-Putty
 Dalyn,Abruzzo,9' x 13',AZ1-Putty,AZ1PU9X13,Putty,195843417389,1059.99,,
 Dalyn,Abruzzo,2' x 3',AZ1-Spice,AZ1SI2X3,Spice,195843416993,79.99,,
 Dalyn,Abruzzo,"2'3"" x 7'6""",AZ1-Spice,AZ1SI2X8,Spice,195843417075,199.99,,
@@ -6199,7 +6199,7 @@ Dalyn,Kochi,"30"" x 46""",KC14-Putty,KC14PU30X46,Putty,198590590831,69.99,,
 Dalyn,Kochi,3' x 5',KC14-Putty,KC14PU3X5,Putty,198590591197,109.99,,
 Dalyn,Kochi,"5' x 7'6""",KC14-Putty,KC14PU5X8,Putty,198590591555,239.99,,
 Dalyn,Kochi,8' Round,KC14-Putty,KC14PU8RO,Putty,198590594075,469.99,,
-Dalyn,Kochi,8' x 10',KC14-Putty,KC14PU8X10,Putty,198590591913,469.99,,
+Dalyn,Kochi,8' x 10',KC14-Putty,KC14PU8X10,Putty,198590591913,469.99,1013370S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Kochi/KC14-Putty
 Dalyn,Kochi,9' x 12',KC14-Putty,KC14PU9X12,Putty,198590592279,689.99,,
 Dalyn,Kochi,10' x 14',KC15-Granite,KC15GN10X14,Granite,198590592644,899.99,,
 Dalyn,Kochi,"20"" x 30""",KC15-Granite,KC15GN20X30,Granite,198590590121,29.99,,
@@ -9196,7 +9196,7 @@ Dalyn,Ravenna,"30"" x 46""",RN9-Blue,RN9BU30X46,Blue,198590464927,69.99,,
 Dalyn,Ravenna,3' x 5',RN9-Blue,RN9BU3X5,Blue,198590465573,109.99,,
 Dalyn,Ravenna,"5' x 7'6""",RN9-Blue,RN9BU5X8,Blue,198590466228,239.99,1002344S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Ravenna/RN9-Blue
 Dalyn,Ravenna,8' Round,RN9-Blue,RN9BU8RO,Blue,198590468826,469.99,,
-Dalyn,Ravenna,8' x 10',RN9-Blue,RN9BU8X10,Blue,198590466877,469.99,,
+Dalyn,Ravenna,8' x 10',RN9-Blue,RN9BU8X10,Blue,198590466877,469.99,1013369S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Ravenna/RN9-Blue
 Dalyn,Ravenna,9' x 12',RN9-Blue,RN9BU9X12,Blue,198590467522,689.99,,
 Dalyn,Ravenna,10' x 14',RN9-Gray,RN9GY10X14,Gray,198590468185,899.99,,
 Dalyn,Ravenna,"20"" x 30""",RN9-Gray,RN9GY20X30,Gray,198590463630,29.99,,
@@ -13531,7 +13531,7 @@ Dalyn,Voyage,"30"" x 46""",VY2-Celery,VY2CL30X46,Celery,199477546958,69.99,,
 Dalyn,Voyage,3' x 5',VY2-Celery,VY2CL3X5,Celery,199477547191,109.99,,
 Dalyn,Voyage,"5' x 7'6""",VY2-Celery,VY2CL5X8,Celery,199477547436,239.99,,
 Dalyn,Voyage,8' Round,VY2-Celery,VY2CL8RO,Celery,199477548396,469.99,,
-Dalyn,Voyage,8' x 10',VY2-Celery,VY2CL8X10,Celery,199477547672,469.99,,
+Dalyn,Voyage,8' x 10',VY2-Celery,VY2CL8X10,Celery,199477547672,469.99,1013366S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Voyage/VY2-Celery
 Dalyn,Voyage,9' x 12',VY2-Celery,VY2CL9X12,Celery,199477547917,689.99,,
 Dalyn,Voyage,10' x 14',VY2-Copper,VY2CP10X14,Copper,199477548174,899.99,,
 Dalyn,Voyage,"20"" x 30""",VY2-Copper,VY2CP20X30,Copper,199477546491,29.99,,
@@ -13594,7 +13594,7 @@ Dalyn,Voyage,"30"" x 46""",VY2-Linen,VY2LN30X46,Linen,199477547030,69.99,,
 Dalyn,Voyage,3' x 5',VY2-Linen,VY2LN3X5,Linen,199477547276,109.99,,
 Dalyn,Voyage,"5' x 7'6""",VY2-Linen,VY2LN5X8,Linen,199477547511,239.99,,
 Dalyn,Voyage,8' Round,VY2-Linen,VY2LN8RO,Linen,199477548471,469.99,,
-Dalyn,Voyage,8' x 10',VY2-Linen,VY2LN8X10,Linen,199477547757,469.99,,
+Dalyn,Voyage,8' x 10',VY2-Linen,VY2LN8X10,Linen,199477547757,469.99,1013367S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Voyage/VY2-Linen
 Dalyn,Voyage,9' x 12',VY2-Linen,VY2LN9X12,Linen,199477547993,689.99,,
 Dalyn,Voyage,10' x 14',VY2-Lavender,VY2LV10X14,Lavender,199477548228,899.99,,
 Dalyn,Voyage,"20"" x 30""",VY2-Lavender,VY2LV20X30,Lavender,199477546545,29.99,,
@@ -14942,7 +14942,7 @@ Dalyn,Aristo,3' x 5',AR4-Taupe,AR4TP3X5,Taupe,199477732054,129.99,,
 Dalyn,Aristo,"5' x 7'6""",AR4-Taupe,AR4TP5X8,Taupe,199477732467,279.99,,
 Dalyn,Aristo,"6'6"" x 9'6""",AR4-Taupe,AR4TP6X9,Taupe,199477750775,469.99,,
 Dalyn,Aristo,8' Round,AR4-Taupe,AR4TP8RO,Taupe,199477734515,559.99,,
-Dalyn,Aristo,8' x 10',AR4-Taupe,AR4TP8X10,Taupe,199477733280,559.99,,
+Dalyn,Aristo,8' x 10',AR4-Taupe,AR4TP8X10,Taupe,199477733280,559.99,1013371S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Aristo/AR4-Taupe
 Dalyn,Aristo,9' x 12',AR4-Taupe,AR4TP9X12,Taupe,199477733693,769.99,,
 Dalyn,Aristo,10' x 14',AR4-Wheat,AR4WH10X14,Wheat,199477734096,889.99,,
 Dalyn,Aristo,"20"" x 30""",AR4-Wheat,AR4WH20X30,Wheat,199477730814,49.99,,
@@ -20122,8 +20122,8 @@ Feizy,Pollock,5' x 8',PLK8952F-Brown_Tan_Ivory,PLK8952FBGEIVYE10,Brown/Tan/Ivory
 Feizy,Pollock,9' x 12',PLK8952F-Brown_Tan_Ivory,PLK8952FBGEIVYG00,Brown/Tan/Ivory,654291006083,989.99,,
 Feizy,Pollock,12' x 15',PLK8952F-Brown_Tan_Ivory,PLK8952FBGEIVYJ00,Brown/Tan/Ivory,654291006106,1639.99,,
 Feizy,Pollock,"3'6"" x 5'6""",PLK8952F-Brown_Tan_Ivory,PLK8952FBGEIVYC50,Brown/Tan/Ivory,654291006052,169.99,,
-Feizy,Pollock,10' x 14',8954F-IVORY_BEIGE,PLK8954FIVYBGEH00,IVORY/BEIGE,654291006250,1319.99,10008S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Pollock/8954F-IVORY_BEIGE
-Feizy,Pollock,9' x 12',8954F-IVORY_BEIGE,PLK8954FIVYBGEG00,IVORY/BEIGE,654291006243,989.99,,
+Feizy,Pollock,10' x 14',PLK8954F-Ivory_Brown_Tan,PLK8954FIVYBGEH00,Ivory/Brown/Tan,654291006250,1319.99,10008S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Pollock/PLK8954F-Ivory_Brown_Tan
+Feizy,Pollock,9' x 12',PLK8954F-Ivory_Brown_Tan,PLK8954FIVYBGEG00,Ivory/Brown/Tan,654291006243,989.99,,
 Feizy,Prasad,8' x 11',6703683F-Gray_Ivory,6703683FGRY000G99,Gray/Ivory,654291765737,499.99,,
 Feizy,Prasad,5' x 8',6703683F-Gray_Ivory,6703683FGRY000E10,Gray/Ivory,654291765645,229.99,,
 Feizy,Prasad,"2'10"" x 7'10""",6703683F-Gray_Ivory,6703683FGRY000I71,Gray/Ivory,654291766161,119.99,,
@@ -76076,7 +76076,7 @@ Central Oriental,Tulsa2-CTOR,5.3' x 7.6',Tulsa2-CTOR,577931,,038698976093,89.99,
 Central Oriental,Demi-CTOR,5' x 7.6',Demi-CTOR,14532S,,194216062126,209.99,14532S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Demi-CTOR/Demi-CTOR
 Central Oriental,Stonington-CTOR,8' x 10',Stonington-CTOR,1003464S,,194216150618,439.99,1003464S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Stonington-CTOR/Stonington-CTOR
 Central Oriental,Maisie-CTOR,5' x 7.6',Maisie-CTOR,474846,,038698935830,189.99,474846,https://homemakersfurniture.github.io/rugDatabase/#/collection/Maisie-CTOR/Maisie-CTOR
-Central Oriental,Maisie-CTOR,7.10' x 9.10',Maisie-CTOR,516905,,38698980908,389.99,516905,https://homemakersfurniture.github.io/rugDatabase/#/collection/Maisie-CTOR/Maisie-CTOR
+Central Oriental,Structures-CTOR,7.10' x 9.10',Structures-CTOR,516905,,38698980908,389.99,516905,https://homemakersfurniture.github.io/rugDatabase/#/collection/Structures-CTOR/Structures-CTOR
 Central Oriental,Silver Angelo-CTOR,5' x 8',Silver Angelo-CTOR,1003453S,,194216163694,209.99,1003453S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Silver%20Angelo-CTOR/Silver%20Angelo-CTOR
 Central Oriental,Searcy-CTOR,6.7' x 9',Searcy-CTOR,14688S,,194216125050,339.99,14688S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Searcy-CTOR/Searcy-CTOR
 Central Oriental,Xander-CTOR,8' x 10',Xander-CTOR,1003500S,,194216099146,329.99,1003500S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Xander-CTOR/Xander-CTOR
