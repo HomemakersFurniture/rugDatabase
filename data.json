@@ -250291,7 +250291,7 @@
     "Primary Color": "Ivory / Charcoal",
     "UPC": "885369848643",
     "Retail": 429.99,
-    "product_id": ""
+    "product_id": "1013385S"
   },
   {
     "Vendor": "Loloi",
@@ -257320,7 +257320,7 @@
     "Primary Color": "Ivory / Multi",
     "UPC": "885369910715",
     "Retail": 519.99,
-    "product_id": ""
+    "product_id": "1013383S"
   },
   {
     "Vendor": "Loloi",
@@ -257782,7 +257782,7 @@
     "Primary Color": "Bark / Lagoon",
     "UPC": "885369910746",
     "Retail": 519.99,
-    "product_id": ""
+    "product_id": "1013384S"
   },
   {
     "Vendor": "Loloi",
@@ -360643,7 +360643,7 @@
     "Primary Color": "Natural / Mist",
     "UPC": "885369804311",
     "Retail": 429.99,
-    "product_id": ""
+    "product_id": "1013378S"
   },
   {
     "Vendor": "Loloi",
@@ -414675,7 +414675,7 @@
     "Primary Color": "Granite / Ivory",
     "UPC": "885369458583",
     "Retail": 699.99,
-    "product_id": ""
+    "product_id": "1013375S"
   },
   {
     "Vendor": "Loloi",
@@ -425356,7 +425356,7 @@
     "Primary Color": "Sky / Natural",
     "UPC": "885369836329",
     "Retail": 549.99,
-    "product_id": ""
+    "product_id": "1013372S"
   },
   {
     "Vendor": "Loloi",
@@ -425488,7 +425488,7 @@
     "Primary Color": "Fog / Natural",
     "UPC": "885369836336",
     "Retail": 549.99,
-    "product_id": ""
+    "product_id": "1013373S"
   },
   {
     "Vendor": "Loloi",
@@ -426258,7 +426258,7 @@
     "Primary Color": "Stone / Multi",
     "UPC": "885369836053",
     "Retail": 249.99,
-    "product_id": ""
+    "product_id": "1013374S"
   },
   {
     "Vendor": "Loloi",
@@ -836339,6 +836339,61 @@
     "UPC": "024052967036",
     "Retail": 499.99,
     "product_id": "1009571S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Unawick",
+    "Size": "7.8' x 10'",
+    "Design ID": "Unawick",
+    "VPN": "1013707S",
+    "Primary Color": "",
+    "UPC": "024052925241",
+    "Retail": 219.99,
+    "product_id": "1013707S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Torinette",
+    "Size": "9' x 12'",
+    "Design ID": "Torinette",
+    "VPN": "1013700S",
+    "Primary Color": "",
+    "UPC": "024052967326",
+    "Retail": 299.99,
+    "product_id": "1013700S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Torinette",
+    "Size": "5' x 7'",
+    "Design ID": "Torinette",
+    "VPN": "1013698S",
+    "Primary Color": "",
+    "UPC": "024052967340",
+    "Retail": 99.99,
+    "product_id": "1013698S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Unawick",
+    "Size": "5.2' x 7'",
+    "Design ID": "Unawick",
+    "VPN": "1013706S",
+    "Primary Color": "",
+    "UPC": "024052925258",
+    "Retail": 99.99,
+    "product_id": "1013706S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Leningston",
+    "Size": "5' x 7'",
+    "Design ID": "Leningston",
+    "VPN": "1013696S",
+    "Primary Color": "",
+    "UPC": "024052913958",
+    "Retail": 79.99,
+    "product_id": "1013696S"
   },
   {
     "Vendor": "Central Oriental",
