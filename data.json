@@ -835242,17 +835242,6 @@
   },
   {
     "Vendor": "Ashley",
-    "Collection Name": "Kencher",
-    "Size": "5' x 8'",
-    "Design ID": "Kencher",
-    "VPN": "13561S",
-    "Primary Color": "",
-    "UPC": "024052891454",
-    "Retail": 139.99,
-    "product_id": "13561S"
-  },
-  {
-    "Vendor": "Ashley",
     "Collection Name": "Ladstoney",
     "Size": "8' x 10'",
     "Design ID": "Ladstoney",
@@ -835319,69 +835308,14 @@
   },
   {
     "Vendor": "Ashley",
-    "Collection Name": "Clayman",
-    "Size": "8' x 10'",
-    "Design ID": "Clayman",
-    "VPN": "1010137S",
+    "Collection Name": "Kencher",
+    "Size": "5' x 8'",
+    "Design ID": "Kencher",
+    "VPN": "13561S",
     "Primary Color": "",
-    "UPC": "024052967258",
-    "Retail": 579.99,
-    "product_id": "1010137S"
-  },
-  {
-    "Vendor": "Ashley",
-    "Collection Name": "Barricland",
-    "Size": "5' x 7'",
-    "Design ID": "Barricland",
-    "VPN": "1010116S",
-    "Primary Color": "",
-    "UPC": "024052967210",
-    "Retail": 129.99,
-    "product_id": "1010116S"
-  },
-  {
-    "Vendor": "Ashley",
-    "Collection Name": "Barricland",
-    "Size": "8' x 10'",
-    "Design ID": "Barricland",
-    "VPN": "1010114S",
-    "Primary Color": "",
-    "UPC": "024052967203",
-    "Retail": 249.99,
-    "product_id": "1010114S"
-  },
-  {
-    "Vendor": "Ashley",
-    "Collection Name": "Junley",
-    "Size": "8' x 10'",
-    "Design ID": "Junley",
-    "VPN": "1010112S",
-    "Primary Color": "",
-    "UPC": "024052967180",
-    "Retail": 249.99,
-    "product_id": "1010112S"
-  },
-  {
-    "Vendor": "Ashley",
-    "Collection Name": "Eljory",
-    "Size": "9' x 12'",
-    "Design ID": "Eljory",
-    "VPN": "1010102S",
-    "Primary Color": "",
-    "UPC": "024052967159",
-    "Retail": 669.99,
-    "product_id": "1010102S"
-  },
-  {
-    "Vendor": "Ashley",
-    "Collection Name": "Eljory",
-    "Size": "8' x 10'",
-    "Design ID": "Eljory",
-    "VPN": "1010052S",
-    "Primary Color": "",
-    "UPC": "024052967166",
-    "Retail": 479.99,
-    "product_id": "1010052S"
+    "UPC": "024052891454",
+    "Retail": 139.99,
+    "product_id": "13561S"
   },
   {
     "Vendor": "Ashley",
@@ -835440,6 +835374,17 @@
   },
   {
     "Vendor": "Ashley",
+    "Collection Name": "Clayman",
+    "Size": "8' x 10'",
+    "Design ID": "Clayman",
+    "VPN": "1010137S",
+    "Primary Color": "",
+    "UPC": "024052967258",
+    "Retail": 579.99,
+    "product_id": "1010137S"
+  },
+  {
+    "Vendor": "Ashley",
     "Collection Name": "Fenriston",
     "Size": "5' x 8'",
     "Design ID": "Fenriston",
@@ -835459,6 +835404,61 @@
     "UPC": "024052967227",
     "Retail": 179.99,
     "product_id": "1010120S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Barricland",
+    "Size": "5' x 7'",
+    "Design ID": "Barricland",
+    "VPN": "1010116S",
+    "Primary Color": "",
+    "UPC": "024052967210",
+    "Retail": 129.99,
+    "product_id": "1010116S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Barricland",
+    "Size": "8' x 10'",
+    "Design ID": "Barricland",
+    "VPN": "1010114S",
+    "Primary Color": "",
+    "UPC": "024052967203",
+    "Retail": 249.99,
+    "product_id": "1010114S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Junley",
+    "Size": "8' x 10'",
+    "Design ID": "Junley",
+    "VPN": "1010112S",
+    "Primary Color": "",
+    "UPC": "024052967180",
+    "Retail": 249.99,
+    "product_id": "1010112S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Eljory",
+    "Size": "9' x 12'",
+    "Design ID": "Eljory",
+    "VPN": "1010102S",
+    "Primary Color": "",
+    "UPC": "024052967159",
+    "Retail": 669.99,
+    "product_id": "1010102S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Eljory",
+    "Size": "8' x 10'",
+    "Design ID": "Eljory",
+    "VPN": "1010052S",
+    "Primary Color": "",
+    "UPC": "024052967166",
+    "Retail": 479.99,
+    "product_id": "1010052S"
   },
   {
     "Vendor": "Ashley",
@@ -836133,17 +836133,6 @@
   },
   {
     "Vendor": "Ashley",
-    "Collection Name": "Thomley",
-    "Size": "8' x 10'",
-    "Design ID": "Thomley",
-    "VPN": "1001984S",
-    "Primary Color": "",
-    "UPC": "024052871944",
-    "Retail": 119,
-    "product_id": "1001984S"
-  },
-  {
-    "Vendor": "Ashley",
     "Collection Name": "Gentor",
     "Size": "8' x 10'",
     "Design ID": "Gentor",
@@ -836155,14 +836144,14 @@
   },
   {
     "Vendor": "Ashley",
-    "Collection Name": "Wimney",
+    "Collection Name": "Thomley",
     "Size": "8' x 10'",
-    "Design ID": "Wimney",
-    "VPN": "1002276S",
+    "Design ID": "Thomley",
+    "VPN": "1001984S",
     "Primary Color": "",
-    "UPC": "024052924855",
-    "Retail": 379.99,
-    "product_id": "1002276S"
+    "UPC": "024052871944",
+    "Retail": 119,
+    "product_id": "1001984S"
   },
   {
     "Vendor": "Ashley",
@@ -836196,6 +836185,17 @@
     "UPC": "024052913958",
     "Retail": 79.99,
     "product_id": "1013696S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Wimney",
+    "Size": "8' x 10'",
+    "Design ID": "Wimney",
+    "VPN": "1002276S",
+    "Primary Color": "",
+    "UPC": "024052924855",
+    "Retail": 379.99,
+    "product_id": "1002276S"
   },
   {
     "Vendor": "Ashley",
@@ -837134,28 +837134,6 @@
   },
   {
     "Vendor": "Central Oriental",
-    "Collection Name": "Gray Tupelo Tessa-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Gray Tupelo Tessa-CTOR",
-    "VPN": "1008636S",
-    "Primary Color": "",
-    "UPC": "194216181094",
-    "Retail": 169.99,
-    "product_id": "1008636S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Ivory Tupelo Tessa-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Ivory Tupelo Tessa-CTOR",
-    "VPN": "1008634S",
-    "Primary Color": "",
-    "UPC": "194216181087",
-    "Retail": 169.99,
-    "product_id": "1008634S"
-  },
-  {
-    "Vendor": "Central Oriental",
     "Collection Name": "Tupelo Farrah-CTOR",
     "Size": "8' x 10'",
     "Design ID": "Tupelo Farrah-CTOR",
@@ -837189,17 +837167,6 @@
   },
   {
     "Vendor": "Central Oriental",
-    "Collection Name": "Rooted Nella-CTOR",
-    "Size": "8' x 10'",
-    "Design ID": "Rooted Nella-CTOR",
-    "VPN": "1008621S",
-    "Primary Color": "",
-    "UPC": "194216181506",
-    "Retail": 449.99,
-    "product_id": "1008621S"
-  },
-  {
-    "Vendor": "Central Oriental",
     "Collection Name": "Gray Talia-CTOR",
     "Size": "5' x 7'",
     "Design ID": "Gray Talia-CTOR",
@@ -837222,6 +837189,17 @@
   },
   {
     "Vendor": "Central Oriental",
+    "Collection Name": "Gray Tupelo Tessa-CTOR",
+    "Size": "5' x 8'",
+    "Design ID": "Gray Tupelo Tessa-CTOR",
+    "VPN": "1008636S",
+    "Primary Color": "",
+    "UPC": "194216181094",
+    "Retail": 169.99,
+    "product_id": "1008636S"
+  },
+  {
+    "Vendor": "Central Oriental",
     "Collection Name": "Blue Tupelo Farrah-CTOR",
     "Size": "8' x 10'",
     "Design ID": "Blue Tupelo Farrah-CTOR",
@@ -837233,6 +837211,17 @@
   },
   {
     "Vendor": "Central Oriental",
+    "Collection Name": "Ivory Tupelo Tessa-CTOR",
+    "Size": "5' x 8'",
+    "Design ID": "Ivory Tupelo Tessa-CTOR",
+    "VPN": "1008634S",
+    "Primary Color": "",
+    "UPC": "194216181087",
+    "Retail": 169.99,
+    "product_id": "1008634S"
+  },
+  {
+    "Vendor": "Central Oriental",
     "Collection Name": "Rooted Flora-CTOR",
     "Size": "8' x 10'",
     "Design ID": "Rooted Flora-CTOR",
@@ -837241,6 +837230,17 @@
     "UPC": "194216181483",
     "Retail": 449.99,
     "product_id": "1008586S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Rooted Nella-CTOR",
+    "Size": "8' x 10'",
+    "Design ID": "Rooted Nella-CTOR",
+    "VPN": "1008621S",
+    "Primary Color": "",
+    "UPC": "194216181506",
+    "Retail": 449.99,
+    "product_id": "1008621S"
   },
   {
     "Vendor": "Central Oriental",
@@ -837376,17 +837376,6 @@
   },
   {
     "Vendor": "Central Oriental",
-    "Collection Name": "Ivory Bebel Faux Fur-CTOR",
-    "Size": "5' x 7'",
-    "Design ID": "Ivory Bebel Faux Fur-CTOR",
-    "VPN": "14069S",
-    "Primary Color": "",
-    "UPC": "194216108763",
-    "Retail": 229.99,
-    "product_id": "14069S"
-  },
-  {
-    "Vendor": "Central Oriental",
     "Collection Name": "Gray Bebel Faux Fur-CTOR",
     "Size": "7.6' x 9.6'",
     "Design ID": "Gray Bebel Faux Fur-CTOR",
@@ -837475,28 +837464,6 @@
   },
   {
     "Vendor": "Central Oriental",
-    "Collection Name": "Delany-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Delany-CTOR",
-    "VPN": "1003473S",
-    "Primary Color": "",
-    "UPC": "194216163373",
-    "Retail": 169.99,
-    "product_id": "1003473S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Amale-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Amale-CTOR",
-    "VPN": "1003470S",
-    "Primary Color": "",
-    "UPC": "194216163342",
-    "Retail": 169.99,
-    "product_id": "1003470S"
-  },
-  {
-    "Vendor": "Central Oriental",
     "Collection Name": "Acton-CTOR",
     "Size": "7.10' x 9.10'",
     "Design ID": "Acton-CTOR",
@@ -837519,14 +837486,14 @@
   },
   {
     "Vendor": "Central Oriental",
-    "Collection Name": "Black Belgian Faux Fur-CTOR",
+    "Collection Name": "Ivory Bebel Faux Fur-CTOR",
     "Size": "5' x 7'",
-    "Design ID": "Black Belgian Faux Fur-CTOR",
-    "VPN": "14387S",
+    "Design ID": "Ivory Bebel Faux Fur-CTOR",
+    "VPN": "14069S",
     "Primary Color": "",
-    "UPC": "194216145447",
+    "UPC": "194216108763",
     "Retail": 229.99,
-    "product_id": "14387S"
+    "product_id": "14069S"
   },
   {
     "Vendor": "Central Oriental",
@@ -837571,17 +837538,6 @@
     "UPC": "194216150618",
     "Retail": 439.99,
     "product_id": "1003464S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Stonington-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Stonington-CTOR",
-    "VPN": "1003461S",
-    "Primary Color": "",
-    "UPC": "194216150588",
-    "Retail": 209.99,
-    "product_id": "1003461S"
   },
   {
     "Vendor": "Central Oriental",
@@ -837651,113 +837607,25 @@
   },
   {
     "Vendor": "Central Oriental",
-    "Collection Name": "Grass-Ctro",
+    "Collection Name": "Delany-CTOR",
     "Size": "5' x 8'",
-    "Design ID": "Grass-Ctro",
-    "VPN": "757009",
+    "Design ID": "Delany-CTOR",
+    "VPN": "1003473S",
     "Primary Color": "",
-    "UPC": "194216093984",
-    "Retail": 89.99,
-    "product_id": "757009"
+    "UPC": "194216163373",
+    "Retail": 169.99,
+    "product_id": "1003473S"
   },
   {
     "Vendor": "Central Oriental",
-    "Collection Name": "Acton-CTOR",
-    "Size": "5' x 7.6'",
-    "Design ID": "Acton-CTOR",
-    "VPN": "14061S",
-    "Primary Color": "",
-    "UPC": "194216116072",
-    "Retail": 149.99,
-    "product_id": "14061S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Gray Bebel Faux Fur-CTOR",
-    "Size": "5' x 7'",
-    "Design ID": "Gray Bebel Faux Fur-CTOR",
-    "VPN": "14071S",
-    "Primary Color": "",
-    "UPC": "194216108787",
-    "Retail": 229.99,
-    "product_id": "14071S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Ivory Bebel Faux Fur-CTOR",
-    "Size": "7.6' x 9.6'",
-    "Design ID": "Ivory Bebel Faux Fur-CTOR",
-    "VPN": "14072S",
-    "Primary Color": "",
-    "UPC": "194216108817",
-    "Retail": 449.99,
-    "product_id": "14072S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Faux Fox-CTOR",
-    "Size": "5' x 7'",
-    "Design ID": "Faux Fox-CTOR",
-    "VPN": "14393S",
-    "Primary Color": "",
-    "UPC": "194216145645",
-    "Retail": 229.99,
-    "product_id": "14393S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Silas-CTOR",
-    "Size": "5' x 7.6'",
-    "Design ID": "Silas-CTOR",
-    "VPN": "14626S",
-    "Primary Color": "",
-    "UPC": "194216054954",
-    "Retail": 209.99,
-    "product_id": "14626S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Sianna-CTOR",
-    "Size": "7.10' x 9.10'",
-    "Design ID": "Sianna-CTOR",
-    "VPN": "14629S",
-    "Primary Color": "",
-    "UPC": "194216066230",
-    "Retail": 429.99,
-    "product_id": "14629S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Searcy-CTOR",
-    "Size": "6.7' x 9'",
-    "Design ID": "Searcy-CTOR",
-    "VPN": "14688S",
-    "Primary Color": "",
-    "UPC": "194216125050",
-    "Retail": 339.99,
-    "product_id": "14688S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Tan Grove Callum-CTOR",
-    "Size": "8' x 10'",
-    "Design ID": "Tan Grove Callum-CTOR",
-    "VPN": "1008670S",
-    "Primary Color": "",
-    "UPC": "194216181377",
-    "Retail": 489.99,
-    "product_id": "1008670S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Tan Grove Callum-CTOR",
+    "Collection Name": "Amale-CTOR",
     "Size": "5' x 8'",
-    "Design ID": "Tan Grove Callum-CTOR",
-    "VPN": "1008669S",
+    "Design ID": "Amale-CTOR",
+    "VPN": "1003470S",
     "Primary Color": "",
-    "UPC": "194216181315",
-    "Retail": 239.99,
-    "product_id": "1008669S"
+    "UPC": "194216163342",
+    "Retail": 169.99,
+    "product_id": "1003470S"
   },
   {
     "Vendor": "Central Oriental",
@@ -837861,13 +837729,13 @@
   {
     "Vendor": "Central Oriental",
     "Collection Name": "Black Belgian Faux Fur-CTOR",
-    "Size": "7.6' x 9.6'",
+    "Size": "5' x 7'",
     "Design ID": "Black Belgian Faux Fur-CTOR",
-    "VPN": "14389S",
+    "VPN": "14387S",
     "Primary Color": "",
-    "UPC": "194216145461",
-    "Retail": 449.99,
-    "product_id": "14389S"
+    "UPC": "194216145447",
+    "Retail": 229.99,
+    "product_id": "14387S"
   },
   {
     "Vendor": "Central Oriental",
@@ -837992,6 +837860,17 @@
   },
   {
     "Vendor": "Central Oriental",
+    "Collection Name": "Stonington-CTOR",
+    "Size": "5' x 8'",
+    "Design ID": "Stonington-CTOR",
+    "VPN": "1003461S",
+    "Primary Color": "",
+    "UPC": "194216150588",
+    "Retail": 209.99,
+    "product_id": "1003461S"
+  },
+  {
+    "Vendor": "Central Oriental",
     "Collection Name": "Brigitta-CTOR",
     "Size": "8' x 10'",
     "Design ID": "Brigitta-CTOR",
@@ -838033,6 +837912,127 @@
     "UPC": "194216164448",
     "Retail": 209.99,
     "product_id": "1003457S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Grass-Ctro",
+    "Size": "5' x 8'",
+    "Design ID": "Grass-Ctro",
+    "VPN": "757009",
+    "Primary Color": "",
+    "UPC": "194216093984",
+    "Retail": 89.99,
+    "product_id": "757009"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Acton-CTOR",
+    "Size": "5' x 7.6'",
+    "Design ID": "Acton-CTOR",
+    "VPN": "14061S",
+    "Primary Color": "",
+    "UPC": "194216116072",
+    "Retail": 149.99,
+    "product_id": "14061S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Gray Bebel Faux Fur-CTOR",
+    "Size": "5' x 7'",
+    "Design ID": "Gray Bebel Faux Fur-CTOR",
+    "VPN": "14071S",
+    "Primary Color": "",
+    "UPC": "194216108787",
+    "Retail": 229.99,
+    "product_id": "14071S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Ivory Bebel Faux Fur-CTOR",
+    "Size": "7.6' x 9.6'",
+    "Design ID": "Ivory Bebel Faux Fur-CTOR",
+    "VPN": "14072S",
+    "Primary Color": "",
+    "UPC": "194216108817",
+    "Retail": 449.99,
+    "product_id": "14072S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Black Belgian Faux Fur-CTOR",
+    "Size": "7.6' x 9.6'",
+    "Design ID": "Black Belgian Faux Fur-CTOR",
+    "VPN": "14389S",
+    "Primary Color": "",
+    "UPC": "194216145461",
+    "Retail": 449.99,
+    "product_id": "14389S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Faux Fox-CTOR",
+    "Size": "5' x 7'",
+    "Design ID": "Faux Fox-CTOR",
+    "VPN": "14393S",
+    "Primary Color": "",
+    "UPC": "194216145645",
+    "Retail": 229.99,
+    "product_id": "14393S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Silas-CTOR",
+    "Size": "5' x 7.6'",
+    "Design ID": "Silas-CTOR",
+    "VPN": "14626S",
+    "Primary Color": "",
+    "UPC": "194216054954",
+    "Retail": 209.99,
+    "product_id": "14626S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Sianna-CTOR",
+    "Size": "7.10' x 9.10'",
+    "Design ID": "Sianna-CTOR",
+    "VPN": "14629S",
+    "Primary Color": "",
+    "UPC": "194216066230",
+    "Retail": 429.99,
+    "product_id": "14629S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Searcy-CTOR",
+    "Size": "6.7' x 9'",
+    "Design ID": "Searcy-CTOR",
+    "VPN": "14688S",
+    "Primary Color": "",
+    "UPC": "194216125050",
+    "Retail": 339.99,
+    "product_id": "14688S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Tan Grove Callum-CTOR",
+    "Size": "8' x 10'",
+    "Design ID": "Tan Grove Callum-CTOR",
+    "VPN": "1008670S",
+    "Primary Color": "",
+    "UPC": "194216181377",
+    "Retail": 489.99,
+    "product_id": "1008670S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Tan Grove Callum-CTOR",
+    "Size": "5' x 8'",
+    "Design ID": "Tan Grove Callum-CTOR",
+    "VPN": "1008669S",
+    "Primary Color": "",
+    "UPC": "194216181315",
+    "Retail": 239.99,
+    "product_id": "1008669S"
   },
   {
     "Vendor": "Central Oriental",
