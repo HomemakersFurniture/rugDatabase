@@ -835968,17 +835968,6 @@
   },
   {
     "Vendor": "Ashley",
-    "Collection Name": "Brickburgh",
-    "Size": "5' x 6.10'",
-    "Design ID": "Brickburgh",
-    "VPN": "13567S",
-    "Primary Color": "",
-    "UPC": "024052891607",
-    "Retail": 179.99,
-    "product_id": "13567S"
-  },
-  {
-    "Vendor": "Ashley",
     "Collection Name": "Dallane",
     "Size": "5' x 7'",
     "Design ID": "Dallane",
@@ -836020,6 +836009,17 @@
     "UPC": "024052891454",
     "Retail": 169.99,
     "product_id": "13561S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Brickburgh",
+    "Size": "5' x 6.10'",
+    "Design ID": "Brickburgh",
+    "VPN": "13567S",
+    "Primary Color": "",
+    "UPC": "024052891607",
+    "Retail": 179.99,
+    "product_id": "13567S"
   },
   {
     "Vendor": "Ashley",
@@ -837706,6 +837706,116 @@
   },
   {
     "Vendor": "Central Oriental",
+    "Collection Name": "Tan Lyanna-CTOR",
+    "Size": "5' x 7.6'",
+    "Design ID": "Tan Lyanna-CTOR",
+    "VPN": "14547S",
+    "Primary Color": "",
+    "UPC": "194216062140",
+    "Retail": 209.99,
+    "product_id": "14547S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Drk Blue Belmont-CTOR",
+    "Size": "7.6' x 9.6'",
+    "Design ID": "Drk Blue Belmont-CTOR",
+    "VPN": "678883",
+    "Primary Color": "",
+    "UPC": "194216013876",
+    "Retail": 269.99,
+    "product_id": "678883"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Grass-Ctro",
+    "Size": "5' x 8'",
+    "Design ID": "Grass-Ctro",
+    "VPN": "757009",
+    "Primary Color": "",
+    "UPC": "194216093984",
+    "Retail": 89.99,
+    "product_id": "757009"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Black Belgian Faux Fur-CTOR",
+    "Size": "7.6' x 9.6'",
+    "Design ID": "Black Belgian Faux Fur-CTOR",
+    "VPN": "14389S",
+    "Primary Color": "",
+    "UPC": "194216145461",
+    "Retail": 449.99,
+    "product_id": "14389S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Silas-CTOR",
+    "Size": "5' x 7.6'",
+    "Design ID": "Silas-CTOR",
+    "VPN": "14626S",
+    "Primary Color": "",
+    "UPC": "194216054954",
+    "Retail": 209.99,
+    "product_id": "14626S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Sianna-CTOR",
+    "Size": "7.10' x 9.10'",
+    "Design ID": "Sianna-CTOR",
+    "VPN": "14629S",
+    "Primary Color": "",
+    "UPC": "194216066230",
+    "Retail": 429.99,
+    "product_id": "14629S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Searcy-CTOR",
+    "Size": "6.7' x 9'",
+    "Design ID": "Searcy-CTOR",
+    "VPN": "14688S",
+    "Primary Color": "",
+    "UPC": "194216125050",
+    "Retail": 339.99,
+    "product_id": "14688S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Pedro-CTOR",
+    "Size": "5' x 8'",
+    "Design ID": "Pedro-CTOR",
+    "VPN": "1003457S",
+    "Primary Color": "",
+    "UPC": "194216164448",
+    "Retail": 209.99,
+    "product_id": "1003457S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Tan Grove Callum-CTOR",
+    "Size": "8' x 10'",
+    "Design ID": "Tan Grove Callum-CTOR",
+    "VPN": "1008670S",
+    "Primary Color": "",
+    "UPC": "194216181377",
+    "Retail": 489.99,
+    "product_id": "1008670S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Tan Grove Callum-CTOR",
+    "Size": "5' x 8'",
+    "Design ID": "Tan Grove Callum-CTOR",
+    "VPN": "1008669S",
+    "Primary Color": "",
+    "UPC": "194216181315",
+    "Retail": 239.99,
+    "product_id": "1008669S"
+  },
+  {
+    "Vendor": "Central Oriental",
     "Collection Name": "Rustic Rainier-CTOR",
     "Size": "7.10' x 9.10'",
     "Design ID": "Rustic Rainier-CTOR",
@@ -837981,39 +838091,6 @@
   },
   {
     "Vendor": "Central Oriental",
-    "Collection Name": "Tan Lyanna-CTOR",
-    "Size": "5' x 7.6'",
-    "Design ID": "Tan Lyanna-CTOR",
-    "VPN": "14547S",
-    "Primary Color": "",
-    "UPC": "194216062140",
-    "Retail": 209.99,
-    "product_id": "14547S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Drk Blue Belmont-CTOR",
-    "Size": "7.6' x 9.6'",
-    "Design ID": "Drk Blue Belmont-CTOR",
-    "VPN": "678883",
-    "Primary Color": "",
-    "UPC": "194216013876",
-    "Retail": 269.99,
-    "product_id": "678883"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Grass-Ctro",
-    "Size": "5' x 8'",
-    "Design ID": "Grass-Ctro",
-    "VPN": "757009",
-    "Primary Color": "",
-    "UPC": "194216093984",
-    "Retail": 89.99,
-    "product_id": "757009"
-  },
-  {
-    "Vendor": "Central Oriental",
     "Collection Name": "Acton-CTOR",
     "Size": "5' x 7.6'",
     "Design ID": "Acton-CTOR",
@@ -838047,17 +838124,6 @@
   },
   {
     "Vendor": "Central Oriental",
-    "Collection Name": "Black Belgian Faux Fur-CTOR",
-    "Size": "7.6' x 9.6'",
-    "Design ID": "Black Belgian Faux Fur-CTOR",
-    "VPN": "14389S",
-    "Primary Color": "",
-    "UPC": "194216145461",
-    "Retail": 449.99,
-    "product_id": "14389S"
-  },
-  {
-    "Vendor": "Central Oriental",
     "Collection Name": "Faux Fox-CTOR",
     "Size": "5' x 7'",
     "Design ID": "Faux Fox-CTOR",
@@ -838066,72 +838132,6 @@
     "UPC": "194216145645",
     "Retail": 229.99,
     "product_id": "14393S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Silas-CTOR",
-    "Size": "5' x 7.6'",
-    "Design ID": "Silas-CTOR",
-    "VPN": "14626S",
-    "Primary Color": "",
-    "UPC": "194216054954",
-    "Retail": 209.99,
-    "product_id": "14626S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Sianna-CTOR",
-    "Size": "7.10' x 9.10'",
-    "Design ID": "Sianna-CTOR",
-    "VPN": "14629S",
-    "Primary Color": "",
-    "UPC": "194216066230",
-    "Retail": 429.99,
-    "product_id": "14629S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Searcy-CTOR",
-    "Size": "6.7' x 9'",
-    "Design ID": "Searcy-CTOR",
-    "VPN": "14688S",
-    "Primary Color": "",
-    "UPC": "194216125050",
-    "Retail": 339.99,
-    "product_id": "14688S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Pedro-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Pedro-CTOR",
-    "VPN": "1003457S",
-    "Primary Color": "",
-    "UPC": "194216164448",
-    "Retail": 209.99,
-    "product_id": "1003457S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Tan Grove Callum-CTOR",
-    "Size": "8' x 10'",
-    "Design ID": "Tan Grove Callum-CTOR",
-    "VPN": "1008670S",
-    "Primary Color": "",
-    "UPC": "194216181377",
-    "Retail": 489.99,
-    "product_id": "1008670S"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Tan Grove Callum-CTOR",
-    "Size": "5' x 8'",
-    "Design ID": "Tan Grove Callum-CTOR",
-    "VPN": "1008669S",
-    "Primary Color": "",
-    "UPC": "194216181315",
-    "Retail": 239.99,
-    "product_id": "1008669S"
   },
   {
     "Vendor": "Central Oriental",
@@ -838165,28 +838165,6 @@
     "UPC": "038698935830",
     "Retail": 189.99,
     "product_id": "474846"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Gray Tulsa-CTOR",
-    "Size": "7.10' x 9.10'",
-    "Design ID": "Gray Tulsa-CTOR",
-    "VPN": "577817",
-    "Primary Color": "",
-    "UPC": "194216004096",
-    "Retail": 199.99,
-    "product_id": "577817"
-  },
-  {
-    "Vendor": "Central Oriental",
-    "Collection Name": "Blue Mod Tulsa-CTOR",
-    "Size": "7.10' x 9.10'",
-    "Design ID": "Blue Mod Tulsa-CTOR",
-    "VPN": "577821",
-    "Primary Color": "",
-    "UPC": "038698975843",
-    "Retail": 199.99,
-    "product_id": "577821"
   },
   {
     "Vendor": "Central Oriental",
@@ -838242,6 +838220,28 @@
     "UPC": "194216093748",
     "Retail": 429.99,
     "product_id": "14685S"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Gray Tulsa-CTOR",
+    "Size": "7.10' x 9.10'",
+    "Design ID": "Gray Tulsa-CTOR",
+    "VPN": "577817",
+    "Primary Color": "",
+    "UPC": "194216004096",
+    "Retail": 199.99,
+    "product_id": "577817"
+  },
+  {
+    "Vendor": "Central Oriental",
+    "Collection Name": "Blue Mod Tulsa-CTOR",
+    "Size": "7.10' x 9.10'",
+    "Design ID": "Blue Mod Tulsa-CTOR",
+    "VPN": "577821",
+    "Primary Color": "",
+    "UPC": "038698975843",
+    "Retail": 199.99,
+    "product_id": "577821"
   },
   {
     "Vendor": "Central Oriental",
