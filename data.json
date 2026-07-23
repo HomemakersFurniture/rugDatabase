@@ -79681,7 +79681,7 @@
     "Primary Color": "Taupe",
     "UPC": "758253334884",
     "Retail": 309.99,
-    "product_id": "10975S"
+    "product_id": ""
   },
   {
     "Vendor": "Dalyn",
@@ -79813,7 +79813,7 @@
     "Primary Color": "Ecru",
     "UPC": "758253604482",
     "Retail": 309.99,
-    "product_id": "10977S"
+    "product_id": ""
   },
   {
     "Vendor": "Dalyn",
@@ -79945,7 +79945,7 @@
     "Primary Color": "Putty",
     "UPC": "758253604536",
     "Retail": 309.99,
-    "product_id": "10978S"
+    "product_id": ""
   },
   {
     "Vendor": "Dalyn",
@@ -101461,7 +101461,7 @@
     "Primary Color": "Taupe",
     "UPC": "198590468819",
     "Retail": 469.99,
-    "product_id": ""
+    "product_id": "1013352S"
   },
   {
     "Vendor": "Dalyn",
@@ -111834,7 +111834,7 @@
     "Primary Color": "Silver",
     "UPC": "199477568820",
     "Retail": 469.99,
-    "product_id": ""
+    "product_id": "1013354S"
   },
   {
     "Vendor": "Dalyn",
@@ -116388,7 +116388,7 @@
     "Primary Color": "Pearl",
     "UPC": "199477569162",
     "Retail": 469.99,
-    "product_id": ""
+    "product_id": "1013355S"
   },
   {
     "Vendor": "Dalyn",
@@ -173635,6 +173635,237 @@
     "product_id": ""
   },
   {
+    "Vendor": "Dalyn",
+    "Collection Name": "Boca",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "BO10-Gray",
+    "VPN": "BO10GY6X9",
+    "Primary Color": "Gray",
+    "UPC": "198590897923",
+    "Retail": 0,
+    "product_id": "1013547S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Hatay",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "HY1-Beige",
+    "VPN": "HY1BG6X9",
+    "Primary Color": "Beige",
+    "UPC": "198590898074",
+    "Retail": 0,
+    "product_id": "1013544S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Hatay",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "HY1-Olive",
+    "VPN": "HY1OL6X9",
+    "Primary Color": "Olive",
+    "UPC": "198590898081",
+    "Retail": 0,
+    "product_id": "1013543S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Kenner",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "KN6-Ivory",
+    "VPN": "KN6IV6X9",
+    "Primary Color": "Ivory",
+    "UPC": "199477751192",
+    "Retail": 0,
+    "product_id": "1013558S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Kochi",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "KC7-Copper",
+    "VPN": "KC7CP6X9",
+    "Primary Color": "Copper",
+    "UPC": "198590897961",
+    "Retail": 0,
+    "product_id": "1013541S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Kochi",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "KC7-Gray",
+    "VPN": "KC7GY6X9",
+    "Primary Color": "Gray",
+    "UPC": "198590897985",
+    "Retail": 0,
+    "product_id": "1013540S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Kochi",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "KC7-Navy",
+    "VPN": "KC7NA6X9",
+    "Primary Color": "Navy",
+    "UPC": "198590897978",
+    "Retail": 0,
+    "product_id": "1013539S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Kochi",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "KC8-Plum",
+    "VPN": "KC8PM6X9",
+    "Primary Color": "Plum",
+    "UPC": "198590898005",
+    "Retail": 0,
+    "product_id": "1013537S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Kochi",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "KC8-Sage",
+    "VPN": "KC8SA6X9",
+    "Primary Color": "Sage",
+    "UPC": "198590897992",
+    "Retail": 0,
+    "product_id": "1013538S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Lorenzo",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "LN2-Linen",
+    "VPN": "LN2LN6X9",
+    "Primary Color": "Linen",
+    "UPC": "198590897947",
+    "Retail": 0,
+    "product_id": "1013546S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Lorenzo",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "LN4-Red",
+    "VPN": "LN4RD6X9",
+    "Primary Color": "Red",
+    "UPC": "198590897954",
+    "Retail": 0,
+    "product_id": "1013545S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Lumara",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "LM2-Putty",
+    "VPN": "LM2PU6X9",
+    "Primary Color": "Putty",
+    "UPC": "199477751468",
+    "Retail": 0,
+    "product_id": "1013356S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Lumara",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "LM3-Linen",
+    "VPN": "LM3LN6X9",
+    "Primary Color": "Linen",
+    "UPC": "199477751512",
+    "Retail": 0,
+    "product_id": "1013549S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Lumara",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "LM4-Multi",
+    "VPN": "LM4MU6X9",
+    "Primary Color": "Multi",
+    "UPC": "199477751574",
+    "Retail": 0,
+    "product_id": "1013557S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Nexus",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "NX1-Copper",
+    "VPN": "NX1CP6X9",
+    "Primary Color": "Copper",
+    "UPC": "199477751673",
+    "Retail": 0,
+    "product_id": "1013554S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Nexus",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "NX2-Beige",
+    "VPN": "NX2BG6X9",
+    "Primary Color": "Beige",
+    "UPC": "199477751734",
+    "Retail": 0,
+    "product_id": "1013555S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Odyssey",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "OY1-Taupy",
+    "VPN": "OY1TP6X9",
+    "Primary Color": "Taupy",
+    "UPC": "198590898067",
+    "Retail": 0,
+    "product_id": "1013542S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Tabrook",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "TB12-Ivory",
+    "VPN": "TB12IV6X9",
+    "Primary Color": "Ivory",
+    "UPC": "198590898050",
+    "Retail": 0,
+    "product_id": "1013533S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Tabrook",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "TB4-Aloe",
+    "VPN": "TB4AL6X9",
+    "Primary Color": "Aloe",
+    "UPC": "198590898036",
+    "Retail": 0,
+    "product_id": "1013535S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Vico",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "VC5-Beige",
+    "VPN": "VC5BG6X9",
+    "Primary Color": "Beige",
+    "UPC": "199477745498",
+    "Retail": 0,
+    "product_id": "1013553S"
+  },
+  {
+    "Vendor": "Dalyn",
+    "Collection Name": "Vico",
+    "Size": "6'6\" x 9'6\"",
+    "Design ID": "VC6-Ivory",
+    "VPN": "VC6IV6X9",
+    "Primary Color": "Ivory",
+    "UPC": "199477745566",
+    "Retail": 0,
+    "product_id": "1013551S"
+  },
+  {
     "Vendor": "Feizy",
     "Collection Name": "Abbott",
     "Size": "9' x 12'",
@@ -210614,7 +210845,7 @@
     "Primary Color": "CHARCOAL",
     "UPC": "654291678723",
     "Retail": 579.99,
-    "product_id": ""
+    "product_id": "1013496S"
   },
   {
     "Vendor": "Feizy",
@@ -210999,7 +211230,7 @@
     "Primary Color": "LIGHT GREEN",
     "UPC": "654291678686",
     "Retail": 579.99,
-    "product_id": ""
+    "product_id": "1013497S"
   },
   {
     "Vendor": "Feizy",
@@ -211747,7 +211978,7 @@
     "Primary Color": "CHARCOAL",
     "UPC": "654291678723",
     "Retail": 579.99,
-    "product_id": ""
+    "product_id": "1013496S"
   },
   {
     "Vendor": "Feizy",
@@ -212055,7 +212286,7 @@
     "Primary Color": "LIGHT GREEN",
     "UPC": "654291678686",
     "Retail": 579.99,
-    "product_id": ""
+    "product_id": "1013497S"
   },
   {
     "Vendor": "Feizy",
@@ -221493,7 +221724,7 @@
     "Primary Color": "Ivory/Gray/Taupe",
     "UPC": "654291022205",
     "Retail": 809.99,
-    "product_id": ""
+    "product_id": "1013505S"
   },
   {
     "Vendor": "Feizy",
@@ -221691,7 +221922,7 @@
     "Primary Color": "Ivory/Gray",
     "UPC": "654291824939",
     "Retail": 119.99,
-    "product_id": ""
+    "product_id": "1013504S"
   },
   {
     "Vendor": "Feizy",
@@ -221713,7 +221944,7 @@
     "Primary Color": "Ivory/Taupe/Silver",
     "UPC": "654291022250",
     "Retail": 499.99,
-    "product_id": ""
+    "product_id": "1013506S"
   },
   {
     "Vendor": "Feizy",
@@ -222747,7 +222978,7 @@
     "Primary Color": "Ivory/Gray/Blue",
     "UPC": "654291046966",
     "Retail": 689.99,
-    "product_id": ""
+    "product_id": "1013513S"
   },
   {
     "Vendor": "Feizy",
@@ -222857,7 +223088,7 @@
     "Primary Color": "Ivory/Gray/Tan",
     "UPC": "654291046850",
     "Retail": 499.99,
-    "product_id": ""
+    "product_id": "1013512S"
   },
   {
     "Vendor": "Feizy",
@@ -222901,7 +223132,7 @@
     "Primary Color": "Tan/Gray",
     "UPC": "654291047284",
     "Retail": 889.99,
-    "product_id": ""
+    "product_id": "1013515S"
   },
   {
     "Vendor": "Feizy",
@@ -224958,7 +225189,7 @@
     "Primary Color": "Gray/Ivory",
     "UPC": "654291027323",
     "Retail": 459.99,
-    "product_id": ""
+    "product_id": "1013516S"
   },
   {
     "Vendor": "Feizy",
@@ -225112,7 +225343,7 @@
     "Primary Color": "Green/Tan/Ivory",
     "UPC": "654291064328",
     "Retail": 459.99,
-    "product_id": ""
+    "product_id": "1013517S"
   },
   {
     "Vendor": "Feizy",
@@ -225156,7 +225387,7 @@
     "Primary Color": "Blue/Ivory/Gray",
     "UPC": "654291064571",
     "Retail": 659.99,
-    "product_id": ""
+    "product_id": "1013521S"
   },
   {
     "Vendor": "Feizy",
@@ -225222,7 +225453,7 @@
     "Primary Color": "Blue/Ivory/Tan",
     "UPC": "654291064489",
     "Retail": 459.99,
-    "product_id": ""
+    "product_id": "1013518S"
   },
   {
     "Vendor": "Feizy",
@@ -225431,7 +225662,7 @@
     "Primary Color": "Taupe/Ivory/Blue",
     "UPC": "654291064670",
     "Retail": 659.99,
-    "product_id": ""
+    "product_id": "1013522S"
   },
   {
     "Vendor": "Feizy",
@@ -225464,7 +225695,7 @@
     "Primary Color": "Green/Ivory/Tan",
     "UPC": "654291064403",
     "Retail": 459.99,
-    "product_id": ""
+    "product_id": "1013519S"
   },
   {
     "Vendor": "Feizy",
@@ -834098,17 +834329,6 @@
   },
   {
     "Vendor": "Ashley",
-    "Collection Name": "Anburgh",
-    "Size": "5' x 8'",
-    "Design ID": "Anburgh",
-    "VPN": "1000397S",
-    "Primary Color": "",
-    "UPC": "024052925296",
-    "Retail": 129.99,
-    "product_id": "1000397S"
-  },
-  {
-    "Vendor": "Ashley",
     "Collection Name": "Langwell",
     "Size": "8' x 10'",
     "Design ID": "Langwell",
@@ -834128,6 +834348,17 @@
     "UPC": "024052891355",
     "Retail": 339.99,
     "product_id": "13533S"
+  },
+  {
+    "Vendor": "Ashley",
+    "Collection Name": "Anburgh",
+    "Size": "5' x 8'",
+    "Design ID": "Anburgh",
+    "VPN": "1000397S",
+    "Primary Color": "",
+    "UPC": "024052925296",
+    "Retail": 129.99,
+    "product_id": "1000397S"
   },
   {
     "Vendor": "Ashley",
