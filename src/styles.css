@@ -265,6 +265,14 @@
   background-color: #f8f9fa;
 }
 
+.detail-table tbody tr.sku-row {
+  background-color: #D5DED1;
+}
+
+.detail-table tbody tr.sku-row:hover {
+  background-color: #D5DED1;
+}
+
 .detail-table tbody tr:hover .order-id-text {
   font-weight: 700;
 }
