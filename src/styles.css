@@ -265,6 +265,14 @@
   background-color: #f8f9fa;
 }
 
+.detail-table tbody tr.product-id-row {
+  background-color: rgba(213, 222, 209, 0.5);
+}
+
+.detail-table tbody tr.product-id-row:hover {
+  background-color: rgba(213, 222, 209, 0.5);
+}
+
 .detail-table tbody tr:hover .order-id-text {
   font-weight: 700;
 }

@@ -221,11 +221,12 @@ function DesignDetail() {
         <tbody>
           {filteredData.map((item, index) => {
             const rowKey = `${item['VPN'] || 'unknown'}-${item['Size'] || 'unknown'}-${item['Primary Color'] || 'unknown'}-${index}`;
+            const productId = item['product_id'];
+            const hasProductId = productId !== undefined && productId !== null && productId !== '';
             return (
-              <tr key={rowKey}>
+              <tr key={rowKey} className={hasProductId ? 'product-id-row' : undefined}>
                 {tableColumns.map((column, colIndex) => {
                   if (column === 'Order ID') {
-                    const productId = item['product_id'];
                     const vpn = item['VPN'];
                     const value = productId !== undefined && productId !== null && productId !== '' ? productId : vpn;
                     const displayValue = value !== undefined && value !== null && value !== '' ? value : 'N/A';
