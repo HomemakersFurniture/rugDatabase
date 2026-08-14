@@ -53770,7 +53770,7 @@ Sphinx,TISDELL,"2' 3"" X  7' 6""",TIS02,TTIS02068235ST,Green,748679645886,149.99
 Sphinx,TISDELL,"3' 9"" X  5' 2""",TIS02,TTIS02116168ST,Green,748679645893,169.99,,
 Sphinx,TISDELL,"5' 3"" X  7' 6""",TIS02,TTIS02160235ST,Green,748679645909,339.99,,
 Sphinx,TISDELL,"6' 7"" X  9' 4""",TIS02,TTIS02200296ST,Green,748679645916,569.99,,
-Sphinx,TISDELL,"7'10"" X 10'10""",TIS02,TTIS02240340ST,Green,748679645923,679.99,,
+Sphinx,TISDELL,"7'10"" X 10'10""",TIS02,TTIS02240340ST,Green,748679645923,679.99,1015032S,https://homemakersfurniture.github.io/rugDatabase/#/collection/TISDELL/TIS02
 Sphinx,TISDELL,"9'10"" X 12' 8""",TIS02,TTIS02300394ST,Green,748679645930,1179.99,,
 Sphinx,TISDELL,"2' 3"" X  7' 6""",TIS03,TTIS03068235ST,Blue,748679645947,149.99,,
 Sphinx,TISDELL,"3' 9"" X  5' 2""",TIS03,TTIS03116168ST,Blue,748679645954,169.99,,
@@ -83715,14 +83715,14 @@ Ashley,Jarrpage,5' x 7',Jarrpage,1009361S,,024052872064,79.99,1009361S,https://h
 Ashley,Kilkenny,7.10' x 10.2',Kilkenny,671570,,024052788310,199.99,671570,https://homemakersfurniture.github.io/rugDatabase/#/collection/Kilkenny/Kilkenny
 Ashley,Ladstoney,5' x 7',Ladstoney,1006504S,,024052944112,169.99,1006504S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Ladstoney/Ladstoney
 Ashley,Daddridge,5' x 7',Daddridge,1009359S,,024052872132,79.99,1009359S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Daddridge/Daddridge
+Ashley,Elaning,5' x 7',Elaning,14340S,,024052879247,99.99,14340S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Elaning/Elaning
+Ashley,Malvinsboro,8' x 10',Malvinsboro,1005415S,,024052933932,289.99,1005415S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Malvinsboro/Malvinsboro
+Ashley,Arlenmont,7.6' x 9.6',Arlenmont,1006501S,,024052944051,349.99,1006501S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Arlenmont/Arlenmont
 Ashley,Beritham,5' x 7',Beritham,1002279S,,024052924817,99.99,1002279S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Beritham/Beritham
 Ashley,Larkport,5' x 7',Larkport,1006470S,,024052933857,99.99,1006470S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Larkport/Larkport
 Ashley,Idaman,8' x 10',Idaman,1002274S,,024052924879,439.99,1002274S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Idaman/Idaman
 Ashley,Orest,5' x 8',Orest,1009572S,,024052967043,219.99,1009572S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Orest/Orest
 Ashley,Rossbury,5' x 7',Rossbury,1009568S,,024052967012,169.99,1009568S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Rossbury/Rossbury
-Ashley,Elaning,5' x 7',Elaning,14340S,,024052879247,99.99,14340S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Elaning/Elaning
-Ashley,Malvinsboro,8' x 10',Malvinsboro,1005415S,,024052933932,289.99,1005415S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Malvinsboro/Malvinsboro
-Ashley,Arlenmont,7.6' x 9.6',Arlenmont,1006501S,,024052944051,349.99,1006501S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Arlenmont/Arlenmont
 Ashley,Gizela,7.10' x 10',Gizela,607341,,024052788402,177.99,607341,https://homemakersfurniture.github.io/rugDatabase/#/collection/Gizela/Gizela
 Ashley,Elaning,8' x 10',Elaning,14341S,,024052879230,199.99,14341S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Elaning/Elaning
 Ashley,Emertonly,8' x 10',Emertonly,14350S,,024052903508,169.99,14350S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Emertonly/Emertonly
@@ -83736,16 +83736,18 @@ Ashley,Truward,8' x 10',Truward,5712S,,024052884678,259.99,5712S,https://homemak
 Ashley,Raif,9' x 12',Raif,1009579S,,024052967081,519.99,1009579S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Raif/Raif
 Ashley,Brettler,10' x 14',Brettler,13559S,,024052891386,589.99,13559S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Brettler/Brettler
 Ashley,Brickburgh,10' x 14',Brickburgh,13574S,,024052891584,699.99,13574S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Brickburgh/Brickburgh
-Ashley,Jossland,8' x 10',Jossland,1000336S,,024052891614,389.99,1000336S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Jossland/Jossland
-Ashley,Jossland,5' x 7',Jossland,1000341S,,024052891621,179.99,1000341S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Jossland/Jossland
 Ashley,Raif,8' x 10',Raif,1009577S,,024052967098,389.99,1009577S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Raif/Raif
 Ashley,Uduak,8' x 10',Uduak,1009580S,,024052967111,189.99,1009580S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Uduak/Uduak
 Ashley,Rossbury,9' x 12',Rossbury,1009570S,,024052966992,499.99,1009570S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Rossbury/Rossbury
 Ashley,Orest,8' x 10',Orest,1009571S,,024052967036,499.99,1009571S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Orest/Orest
 Ashley,Avanworths,7.8' x 10',Avanworths,1013690S,,024052944532,179.99,1013690S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Avanworths/Avanworths
+Ashley,Jossland,8' x 10',Jossland,1000336S,,024052891614,389.99,1000336S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Jossland/Jossland
+Ashley,Jossland,5' x 7',Jossland,1000341S,,024052891621,179.99,1000341S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Jossland/Jossland
 Ashley,Qaabiz,5' x 7',Qaabiz,1006511S,,024052944136,169.99,1006511S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Qaabiz/Qaabiz
 Ashley,Lambworth,7.10' x 10',Lambworth,713785,,024052826715,279.99,713785,https://homemakersfurniture.github.io/rugDatabase/#/collection/Lambworth/Lambworth
 Ashley,Langwell,5.2' x 6.9',Langwell,13531S,,024052891379,99.99,13531S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Langwell/Langwell
+Ashley,Barkham,8' x 10',Barkham,14329S,,024052831368,149.99,14329S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Barkham/Barkham
+Ashley,Maconville,8' x 10',Maconville,1000393S,,024052925227,219.99,1000393S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Maconville/Maconville
 Ashley,Dallane,5' x 7',Dallane,5585S,,024052872415,219.99,5585S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Dallane/Dallane
 Ashley,Dallane,8' x 10',Dallane,5667S,,024052872408,449.99,5667S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Dallane/Dallane
 Ashley,Brettler,8' x 10',Brettler,13556S,,024052891393,339.99,13556S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Brettler/Brettler
@@ -83753,9 +83755,7 @@ Ashley,Kencher,5' x 8',Kencher,13561S,,024052891454,169.99,13561S,https://homema
 Ashley,Brickburgh,5' x 6.10',Brickburgh,13567S,,024052891607,179.99,13567S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Brickburgh/Brickburgh
 Ashley,Brickburgh,8' x 10',Brickburgh,13568S,,024052891591,389.99,13568S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Brickburgh/Brickburgh
 Ashley,Leesdale,5' x 7',Leesdale,14321S,,024052872552,139.99,14321S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Leesdale/Leesdale
-Ashley,Barkham,8' x 10',Barkham,14329S,,024052831368,149.99,14329S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Barkham/Barkham
 Ashley,Hessland,5' x 7',Hessland,17857S,,024052913934,89.99,17857S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Hessland/Hessland
-Ashley,Maconville,8' x 10',Maconville,1000393S,,024052925227,219.99,1000393S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Maconville/Maconville
 Ashley,Emertonly,5' x 7',Emertonly,14345S,,024052903515,79.99,14345S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Emertonly/Emertonly
 Ashley,Greg,5.2' x 6.10',Greg,713776,,024052841244,99.99,713776,https://homemakersfurniture.github.io/rugDatabase/#/collection/Greg/Greg
 Ashley,Thomley,8' x 10',Thomley,1001984S,,024052871944,119.0,1001984S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Thomley/Thomley
@@ -83793,6 +83793,22 @@ Ashley,Gibbswell,5' x 7',Gibbswell,1006462S,,024052935509,139.99,1006462S,https:
 Central Oriental,Ivory Bebel Faux Fur-CTOR,7.6' x 9.6',Ivory Bebel Faux Fur-CTOR,14072S,,194216108817,449.99,14072S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Ivory%20Bebel%20Faux%20Fur-CTOR/Ivory%20Bebel%20Faux%20Fur-CTOR
 Central Oriental,Gray Angora-CTOR,8' x 10',Gray Angora-CTOR,1005361S,,194216164141,429.99,1005361S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Gray%20Angora-CTOR/Gray%20Angora-CTOR
 Central Oriental,Cream Angora-CTOR,8' x 10',Cream Angora-CTOR,1005356S,,194216164097,429.99,1005356S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Cream%20Angora-CTOR/Cream%20Angora-CTOR
+Central Oriental,Contmp Santorini-CTOR,7.10' x 9.10',Contmp Santorini-CTOR,368606,,038698841117,169.99,368606,https://homemakersfurniture.github.io/rugDatabase/#/collection/Contmp%20Santorini-CTOR/Contmp%20Santorini-CTOR
+Central Oriental,Santorini 2-CTOR,7.10' x 9.10',Santorini 2-CTOR,368648,,038698846112,169.99,368648,https://homemakersfurniture.github.io/rugDatabase/#/collection/Santorini%202-CTOR/Santorini%202-CTOR
+Central Oriental,Alpaca-CTOR,5' x 7',Alpaca-CTOR,368666,,038698857439,239.99,368666,https://homemakersfurniture.github.io/rugDatabase/#/collection/Alpaca-CTOR/Alpaca-CTOR
+Central Oriental,Rainier-CTOR,7.10' x 9.10',Rainier-CTOR,368673,,038698816009,249.99,368673,https://homemakersfurniture.github.io/rugDatabase/#/collection/Rainier-CTOR/Rainier-CTOR
+Central Oriental,Corso Azzurro-CTOR,7.10' x 9.10',Corso Azzurro-CTOR,442422,,038698867841,209.99,442422,https://homemakersfurniture.github.io/rugDatabase/#/collection/Corso%20Azzurro-CTOR/Corso%20Azzurro-CTOR
+Central Oriental,Structures-CTOR,7.10' x 9.10',Structures-CTOR,516905,,38698980908,389.99,516905,https://homemakersfurniture.github.io/rugDatabase/#/collection/Structures-CTOR/Structures-CTOR
+Central Oriental,Gray Relax-CTOR,5' x 7.6',Gray Relax-CTOR,474824,,038698935809,189.99,474824,https://homemakersfurniture.github.io/rugDatabase/#/collection/Gray%20Relax-CTOR/Gray%20Relax-CTOR
+Central Oriental,Brinley-CTOR,7.6' x 9.6',Brinley-CTOR,540926,,038698963734,399.99,540926,https://homemakersfurniture.github.io/rugDatabase/#/collection/Brinley-CTOR/Brinley-CTOR
+Central Oriental,Multi Minerva-CTOR,5' x 7.3',Multi Minerva-CTOR,577780,,194216004126,119.99,577780,https://homemakersfurniture.github.io/rugDatabase/#/collection/Multi%20Minerva-CTOR/Multi%20Minerva-CTOR
+Central Oriental,Gray Minerva-CTOR,5' x 7.3',Gray Minerva-CTOR,577787,,038698993472,119.99,577787,https://homemakersfurniture.github.io/rugDatabase/#/collection/Gray%20Minerva-CTOR/Gray%20Minerva-CTOR
+Central Oriental,Tan Minerva-CTOR,5' x 7.3',Tan Minerva-CTOR,577790,,038698993557,119.99,577790,https://homemakersfurniture.github.io/rugDatabase/#/collection/Tan%20Minerva-CTOR/Tan%20Minerva-CTOR
+Central Oriental,Minerva-CTOR,5' x 7.3',Minerva-CTOR,577797,,038698993571,119.99,577797,https://homemakersfurniture.github.io/rugDatabase/#/collection/Minerva-CTOR/Minerva-CTOR
+Central Oriental,Blue Mod Tulsa-CTOR,5.3' x 7.6',Blue Mod Tulsa-CTOR,577820,,038698975836,89.99,577820,https://homemakersfurniture.github.io/rugDatabase/#/collection/Blue%20Mod%20Tulsa-CTOR/Blue%20Mod%20Tulsa-CTOR
+Central Oriental,Teal Tulsa-CTOR,5.3' x 7.6',Teal Tulsa-CTOR,577822,,038698975959,89.99,577822,https://homemakersfurniture.github.io/rugDatabase/#/collection/Teal%20Tulsa-CTOR/Teal%20Tulsa-CTOR
+Central Oriental,Multi Tulsa-CTOR,5.3' x 7.6',Multi Tulsa-CTOR,577831,,038698975874,89.99,577831,https://homemakersfurniture.github.io/rugDatabase/#/collection/Multi%20Tulsa-CTOR/Multi%20Tulsa-CTOR
+Central Oriental,Blythewood-CTOR,7.10' x 9.10',Blythewood-CTOR,18108S,,194216039319,229.99,18108S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Blythewood-CTOR/Blythewood-CTOR
 Central Oriental,Red Tulsa-CTOR,5.3' x 7.6',Red Tulsa-CTOR,577828,,038698976130,89.99,577828,https://homemakersfurniture.github.io/rugDatabase/#/collection/Red%20Tulsa-CTOR/Red%20Tulsa-CTOR
 Central Oriental,Drk Teal Tulsa-CTOR,5.3' x 7.6',Drk Teal Tulsa-CTOR,577827,,038698975997,89.99,577827,https://homemakersfurniture.github.io/rugDatabase/#/collection/Drk%20Teal%20Tulsa-CTOR/Drk%20Teal%20Tulsa-CTOR
 Central Oriental,Black Tulsa-CTOR,5.3' x 7.6',Black Tulsa-CTOR,577829,,038698975973,89.99,577829,https://homemakersfurniture.github.io/rugDatabase/#/collection/Black%20Tulsa-CTOR/Black%20Tulsa-CTOR
@@ -83832,28 +83848,12 @@ Central Oriental,Grove Callen-CTOR,8' x 10',Grove Callen-CTOR,1008662S,,19421618
 Central Oriental,Brown Adley Roscoe-CTOR,5' x 8',Brown Adley Roscoe-CTOR,1008642S,,194216181209,189.99,1008642S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Brown%20Adley%20Roscoe-CTOR/Brown%20Adley%20Roscoe-CTOR
 Central Oriental,Cream Angora-CTOR,5' x 7',Cream Angora-CTOR,1005355S,,194216164080,229.99,1005355S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Cream%20Angora-CTOR/Cream%20Angora-CTOR
 Central Oriental,Tan Grove Callum-CTOR,5' x 8',Tan Grove Callum-CTOR,1008667S,,194216181308,239.99,1008667S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Tan%20Grove%20Callum-CTOR/Tan%20Grove%20Callum-CTOR
-Central Oriental,Contmp Santorini-CTOR,7.10' x 9.10',Contmp Santorini-CTOR,368606,,038698841117,169.99,368606,https://homemakersfurniture.github.io/rugDatabase/#/collection/Contmp%20Santorini-CTOR/Contmp%20Santorini-CTOR
-Central Oriental,Santorini 2-CTOR,7.10' x 9.10',Santorini 2-CTOR,368648,,038698846112,169.99,368648,https://homemakersfurniture.github.io/rugDatabase/#/collection/Santorini%202-CTOR/Santorini%202-CTOR
-Central Oriental,Alpaca-CTOR,5' x 7',Alpaca-CTOR,368666,,038698857439,239.99,368666,https://homemakersfurniture.github.io/rugDatabase/#/collection/Alpaca-CTOR/Alpaca-CTOR
-Central Oriental,Rainier-CTOR,7.10' x 9.10',Rainier-CTOR,368673,,038698816009,249.99,368673,https://homemakersfurniture.github.io/rugDatabase/#/collection/Rainier-CTOR/Rainier-CTOR
-Central Oriental,Corso Azzurro-CTOR,7.10' x 9.10',Corso Azzurro-CTOR,442422,,038698867841,209.99,442422,https://homemakersfurniture.github.io/rugDatabase/#/collection/Corso%20Azzurro-CTOR/Corso%20Azzurro-CTOR
-Central Oriental,Structures-CTOR,7.10' x 9.10',Structures-CTOR,516905,,38698980908,389.99,516905,https://homemakersfurniture.github.io/rugDatabase/#/collection/Structures-CTOR/Structures-CTOR
-Central Oriental,Gray Relax-CTOR,5' x 7.6',Gray Relax-CTOR,474824,,038698935809,189.99,474824,https://homemakersfurniture.github.io/rugDatabase/#/collection/Gray%20Relax-CTOR/Gray%20Relax-CTOR
-Central Oriental,Brinley-CTOR,7.6' x 9.6',Brinley-CTOR,540926,,038698963734,399.99,540926,https://homemakersfurniture.github.io/rugDatabase/#/collection/Brinley-CTOR/Brinley-CTOR
-Central Oriental,Multi Minerva-CTOR,5' x 7.3',Multi Minerva-CTOR,577780,,194216004126,119.99,577780,https://homemakersfurniture.github.io/rugDatabase/#/collection/Multi%20Minerva-CTOR/Multi%20Minerva-CTOR
-Central Oriental,Gray Minerva-CTOR,5' x 7.3',Gray Minerva-CTOR,577787,,038698993472,119.99,577787,https://homemakersfurniture.github.io/rugDatabase/#/collection/Gray%20Minerva-CTOR/Gray%20Minerva-CTOR
-Central Oriental,Tan Minerva-CTOR,5' x 7.3',Tan Minerva-CTOR,577790,,038698993557,119.99,577790,https://homemakersfurniture.github.io/rugDatabase/#/collection/Tan%20Minerva-CTOR/Tan%20Minerva-CTOR
-Central Oriental,Minerva-CTOR,5' x 7.3',Minerva-CTOR,577797,,038698993571,119.99,577797,https://homemakersfurniture.github.io/rugDatabase/#/collection/Minerva-CTOR/Minerva-CTOR
-Central Oriental,Blue Mod Tulsa-CTOR,5.3' x 7.6',Blue Mod Tulsa-CTOR,577820,,038698975836,89.99,577820,https://homemakersfurniture.github.io/rugDatabase/#/collection/Blue%20Mod%20Tulsa-CTOR/Blue%20Mod%20Tulsa-CTOR
-Central Oriental,Teal Tulsa-CTOR,5.3' x 7.6',Teal Tulsa-CTOR,577822,,038698975959,89.99,577822,https://homemakersfurniture.github.io/rugDatabase/#/collection/Teal%20Tulsa-CTOR/Teal%20Tulsa-CTOR
-Central Oriental,Multi Tulsa-CTOR,5.3' x 7.6',Multi Tulsa-CTOR,577831,,038698975874,89.99,577831,https://homemakersfurniture.github.io/rugDatabase/#/collection/Multi%20Tulsa-CTOR/Multi%20Tulsa-CTOR
-Central Oriental,Blythewood-CTOR,7.10' x 9.10',Blythewood-CTOR,18108S,,194216039319,229.99,18108S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Blythewood-CTOR/Blythewood-CTOR
 Central Oriental,Multi Velventeen-CTOR,5' x 8',Multi Velventeen-CTOR,15344S,,194216063789,129.99,15344S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Multi%20Velventeen-CTOR/Multi%20Velventeen-CTOR
 Central Oriental,Blue Grove Callen-CTOR,5' x 8',Blue Grove Callen-CTOR,1008665S,,194216181353,239.99,1008665S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Blue%20Grove%20Callen-CTOR/Blue%20Grove%20Callen-CTOR
 Central Oriental,Tan Grove Callum-CTOR,8' x 10',Tan Grove Callum-CTOR,1008668S,,194216181360,489.99,1008668S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Tan%20Grove%20Callum-CTOR/Tan%20Grove%20Callum-CTOR
-Central Oriental,Brown Adley Roscoe-CTOR,8' x 10',Brown Adley Roscoe-CTOR,1008644S,,194216181261,379.99,1008644S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Brown%20Adley%20Roscoe-CTOR/Brown%20Adley%20Roscoe-CTOR
 Central Oriental,Adley Rafferty-CTOR,5' x 8',Adley Rafferty-CTOR,1008653S,,194216181223,189.99,1008653S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Adley%20Rafferty-CTOR/Adley%20Rafferty-CTOR
 Central Oriental,Orange Grove Callen-CTOR,5' x 8',Orange Grove Callen-CTOR,1008663S,,194216181346,239.99,1008663S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Orange%20Grove%20Callen-CTOR/Orange%20Grove%20Callen-CTOR
+Central Oriental,Brown Adley Roscoe-CTOR,8' x 10',Brown Adley Roscoe-CTOR,1008644S,,194216181261,379.99,1008644S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Brown%20Adley%20Roscoe-CTOR/Brown%20Adley%20Roscoe-CTOR
 Central Oriental,Blue Adley Rafferty-CTOR,5' x 8',Blue Adley Rafferty-CTOR,1008656S,,194216181230,189.99,1008656S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Blue%20Adley%20Rafferty-CTOR/Blue%20Adley%20Rafferty-CTOR
 Central Oriental,Adley Jones Azure-CTOR,8' x 10',Adley Jones Azure-CTOR,1008641S,,194216181254,379.99,1008641S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Adley%20Jones%20Azure-CTOR/Adley%20Jones%20Azure-CTOR
 Central Oriental,Gray Angora-CTOR,5' x 7',Gray Angora-CTOR,1005359S,,194216164110,229.99,1005359S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Gray%20Angora-CTOR/Gray%20Angora-CTOR
@@ -83866,14 +83866,14 @@ Central Oriental,Tupelo Farrah-CTOR,8' x 10',Tupelo Farrah-CTOR,1008629S,,194216
 Central Oriental,Erinbenrooted-CTOR,8' x 10',Erinbenrooted-CTOR,1008625S,,194216181537,449.99,1008625S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Erinbenrooted-CTOR/Erinbenrooted-CTOR
 Central Oriental,Rooted Flora-CTOR,8' x 10',Rooted Flora-CTOR,1008586S,,194216181483,449.99,1008586S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Rooted%20Flora-CTOR/Rooted%20Flora-CTOR
 Central Oriental,Rooted Nella-CTOR,8' x 10',Rooted Nella-CTOR,1008621S,,194216181506,449.99,1008621S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Rooted%20Nella-CTOR/Rooted%20Nella-CTOR
-Central Oriental,Gray Talia-CTOR,5' x 7',Gray Talia-CTOR,1006026S,,194216165865,219.99,1006026S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Gray%20Talia-CTOR/Gray%20Talia-CTOR
-Central Oriental,Gray Talia-CTOR,8' x 10',Gray Talia-CTOR,1006028S,,194216165889,429.99,1006028S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Gray%20Talia-CTOR/Gray%20Talia-CTOR
-Central Oriental,Grove Callen-CTOR,5' x 8',Grove Callen-CTOR,1008661S,,194216181339,239.99,1008661S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Grove%20Callen-CTOR/Grove%20Callen-CTOR
 Central Oriental,Maisie-CTOR,7.10' Round,Maisie-CTOR,1006277S,,194216103447,299.99,1006277S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Maisie-CTOR/Maisie-CTOR
 Central Oriental,Talia-CTOR,5' x 7',Talia-CTOR,1006031S,,194216165858,219.99,1006031S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Talia-CTOR/Talia-CTOR
 Central Oriental,Talia-CTOR,8' x 10',Talia-CTOR,1006032S,,194216165872,429.99,1006032S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Talia-CTOR/Talia-CTOR
 Central Oriental,Green Adley Roscoe-CTOR,8' x 10',Green Adley Roscoe-CTOR,1008652S,,194216181278,379.99,1008652S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Green%20Adley%20Roscoe-CTOR/Green%20Adley%20Roscoe-CTOR
 Central Oriental,Ivory Tupelo Tessa-CTOR,8' x 10',Ivory Tupelo Tessa-CTOR,1008635S,,194216181155,349.99,1008635S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Ivory%20Tupelo%20Tessa-CTOR/Ivory%20Tupelo%20Tessa-CTOR
+Central Oriental,Gray Talia-CTOR,5' x 7',Gray Talia-CTOR,1006026S,,194216165865,219.99,1006026S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Gray%20Talia-CTOR/Gray%20Talia-CTOR
+Central Oriental,Gray Talia-CTOR,8' x 10',Gray Talia-CTOR,1006028S,,194216165889,429.99,1006028S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Gray%20Talia-CTOR/Gray%20Talia-CTOR
+Central Oriental,Grove Callen-CTOR,5' x 8',Grove Callen-CTOR,1008661S,,194216181339,239.99,1008661S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Grove%20Callen-CTOR/Grove%20Callen-CTOR
 Central Oriental,Maisie-CTOR,2' x 8',Maisie-CTOR,1006275S,,194216050321,79.99,1006275S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Maisie-CTOR/Maisie-CTOR
 Central Oriental,Kesden-CTOR,8' x 10',Kesden-CTOR,1003480S,,194216002986,359.99,1003480S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Kesden-CTOR/Kesden-CTOR
 Central Oriental,Maisie-CTOR,7.10' x 9.10',Maisie-CTOR,1006276S,,038698935984,459.99,1006276S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Maisie-CTOR/Maisie-CTOR
@@ -83885,6 +83885,10 @@ Central Oriental,Gray Belgian Faux Fur-CTOR,7.6' x 9.6',Gray Belgian Faux Fur-CT
 Central Oriental,Azariah-CTOR,5' x 7.6',Azariah-CTOR,14517S,,194216103386,209.99,14517S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Azariah-CTOR/Azariah-CTOR
 Central Oriental,Aslan-CTOR,5' x 7.6',Aslan-CTOR,14631S,,194216124282,209.99,14631S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Aslan-CTOR/Aslan-CTOR
 Central Oriental,Tan Angelo-CTOR,8' x 10',Tan Angelo-CTOR,1003456S,,194216163724,439.99,1003456S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Tan%20Angelo-CTOR/Tan%20Angelo-CTOR
+Central Oriental,Acton-CTOR,7.10' x 9.10',Acton-CTOR,14062S,,194216116089,319.99,14062S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Acton-CTOR/Acton-CTOR
+Central Oriental,Remy-CTOR,5' x 7.6',Remy-CTOR,14066S,,194216098996,149.99,14066S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Remy-CTOR/Remy-CTOR
+Central Oriental,Black Belgian Faux Fur-CTOR,5' x 7',Black Belgian Faux Fur-CTOR,14387S,,194216145447,229.99,14387S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Black%20Belgian%20Faux%20Fur-CTOR/Black%20Belgian%20Faux%20Fur-CTOR
+Central Oriental,Stonington-CTOR,5' x 8',Stonington-CTOR,1003461S,,194216150588,209.99,1003461S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Stonington-CTOR/Stonington-CTOR
 Central Oriental,Ivory Bebel Faux Fur-CTOR,5' x 7',Ivory Bebel Faux Fur-CTOR,14069S,,194216108763,229.99,14069S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Ivory%20Bebel%20Faux%20Fur-CTOR/Ivory%20Bebel%20Faux%20Fur-CTOR
 Central Oriental,Belgian Faux Fur-CTOR,5' x 7',Belgian Faux Fur-CTOR,14396S,,194216145430,229.99,14396S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Belgian%20Faux%20Fur-CTOR/Belgian%20Faux%20Fur-CTOR
 Central Oriental,Belgian Faux Fur-CTOR,7.6' x 9.6',Belgian Faux Fur-CTOR,14397S,,194216145454,449.99,14397S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Belgian%20Faux%20Fur-CTOR/Belgian%20Faux%20Fur-CTOR
@@ -83901,13 +83905,6 @@ Central Oriental,Amale-CTOR,8' x 10',Amale-CTOR,1003472S,,194216163397,359.99,10
 Central Oriental,Gray Neville-CTOR,5' x 8',Gray Neville-CTOR,1003449S,,194216163656,139.99,1003449S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Gray%20Neville-CTOR/Gray%20Neville-CTOR
 Central Oriental,Delany-CTOR,5' x 8',Delany-CTOR,1003473S,,194216163373,169.99,1003473S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Delany-CTOR/Delany-CTOR
 Central Oriental,Amale-CTOR,5' x 8',Amale-CTOR,1003470S,,194216163342,169.99,1003470S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Amale-CTOR/Amale-CTOR
-Central Oriental,Acton-CTOR,7.10' x 9.10',Acton-CTOR,14062S,,194216116089,319.99,14062S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Acton-CTOR/Acton-CTOR
-Central Oriental,Remy-CTOR,5' x 7.6',Remy-CTOR,14066S,,194216098996,149.99,14066S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Remy-CTOR/Remy-CTOR
-Central Oriental,Black Belgian Faux Fur-CTOR,5' x 7',Black Belgian Faux Fur-CTOR,14387S,,194216145447,229.99,14387S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Black%20Belgian%20Faux%20Fur-CTOR/Black%20Belgian%20Faux%20Fur-CTOR
-Central Oriental,Tan Lyanna-CTOR,7.10' x 9.10',Tan Lyanna-CTOR,14548S,,194216062157,429.99,14548S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Tan%20Lyanna-CTOR/Tan%20Lyanna-CTOR
-Central Oriental,Lylah-CTOR,5' x 7.6',Lylah-CTOR,14559S,,194216062102,209.99,14559S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Lylah-CTOR/Lylah-CTOR
-Central Oriental,Reni-CTOR,5' x 7.6',Reni-CTOR,14622S,,194216065172,209.99,14622S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Reni-CTOR/Reni-CTOR
-Central Oriental,Stonington-CTOR,5' x 8',Stonington-CTOR,1003461S,,194216150588,209.99,1003461S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Stonington-CTOR/Stonington-CTOR
 Central Oriental,Tan Lyanna-CTOR,5' x 7.6',Tan Lyanna-CTOR,14547S,,194216062140,209.99,14547S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Tan%20Lyanna-CTOR/Tan%20Lyanna-CTOR
 Central Oriental,Rustic Rainier-CTOR,7.10' x 9.10',Rustic Rainier-CTOR,318249,,038698816016,249.99,318249,https://homemakersfurniture.github.io/rugDatabase/#/collection/Rustic%20Rainier-CTOR/Rustic%20Rainier-CTOR
 Central Oriental,Rainier 2-CTOR,7.10' x 9.10',Rainier 2-CTOR,318250,,038698815989,249.99,318250,https://homemakersfurniture.github.io/rugDatabase/#/collection/Rainier%202-CTOR/Rainier%202-CTOR
@@ -83916,7 +83913,6 @@ Central Oriental,Drk Blue Belmont-CTOR,7.6' x 9.6',Drk Blue Belmont-CTOR,678883,
 Central Oriental,Belmont-CTOR,5' x 7',Belmont-CTOR,678888,,194216013838,139.99,678888,https://homemakersfurniture.github.io/rugDatabase/#/collection/Belmont-CTOR/Belmont-CTOR
 Central Oriental,Purple Belmont-CTOR,7.6' x 9.6',Purple Belmont-CTOR,678893,,194216013814,269.99,678893,https://homemakersfurniture.github.io/rugDatabase/#/collection/Purple%20Belmont-CTOR/Purple%20Belmont-CTOR
 Central Oriental,Corso Azzurro 2-CTOR,7.10' x 9.10',Corso Azzurro 2-CTOR,678906,,038698867858,209.99,678906,https://homemakersfurniture.github.io/rugDatabase/#/collection/Corso%20Azzurro%202-CTOR/Corso%20Azzurro%202-CTOR
-Central Oriental,Grass-Ctro,5' x 8',Grass-Ctro,757009,,194216093984,89.99,757009,https://homemakersfurniture.github.io/rugDatabase/#/collection/Grass-Ctro/Grass-Ctro
 Central Oriental,Monty-CTOR,5' x 7.6',Monty-CTOR,14063S,,194216099061,149.99,14063S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Monty-CTOR/Monty-CTOR
 Central Oriental,Black Belgian Faux Fur-CTOR,7.6' x 9.6',Black Belgian Faux Fur-CTOR,14389S,,194216145461,449.99,14389S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Black%20Belgian%20Faux%20Fur-CTOR/Black%20Belgian%20Faux%20Fur-CTOR
 Central Oriental,Ivory Alette-CTOR,5' x 7.6',Ivory Alette-CTOR,14519S,,194216098637,209.99,14519S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Ivory%20Alette-CTOR/Ivory%20Alette-CTOR
@@ -83924,21 +83920,25 @@ Central Oriental,Nikita-CTOR,7.10' Round,Nikita-CTOR,14525S,,194216103416,279.99
 Central Oriental,Demi-CTOR,5' x 7.6',Demi-CTOR,14532S,,194216062126,209.99,14532S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Demi-CTOR/Demi-CTOR
 Central Oriental,Demi-CTOR,7.10' x 9.10',Demi-CTOR,14533S,,194216062133,429.99,14533S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Demi-CTOR/Demi-CTOR
 Central Oriental,Blakely-CTOR,5' x 7.6',Blakely-CTOR,14542S,,194216101290,209.99,14542S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Blakely-CTOR/Blakely-CTOR
+Central Oriental,Tan Lyanna-CTOR,7.10' x 9.10',Tan Lyanna-CTOR,14548S,,194216062157,429.99,14548S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Tan%20Lyanna-CTOR/Tan%20Lyanna-CTOR
+Central Oriental,Lylah-CTOR,5' x 7.6',Lylah-CTOR,14559S,,194216062102,209.99,14559S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Lylah-CTOR/Lylah-CTOR
 Central Oriental,Reyna-CTOR,7.10' x 9.10',Reyna-CTOR,14563S,,194216062171,429.99,14563S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Reyna-CTOR/Reyna-CTOR
+Central Oriental,Reni-CTOR,5' x 7.6',Reni-CTOR,14622S,,194216065172,209.99,14622S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Reni-CTOR/Reni-CTOR
 Central Oriental,Amara-CTOR,7.10' x 9.10',Amara-CTOR,14625S,,194216054985,429.99,14625S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Amara-CTOR/Amara-CTOR
-Central Oriental,Silas-CTOR,5' x 7.6',Silas-CTOR,14626S,,194216054954,209.99,14626S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Silas-CTOR/Silas-CTOR
 Central Oriental,Silas-CTOR,7.10' x 9.10',Silas-CTOR,14627S,,194216054961,429.99,14627S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Silas-CTOR/Silas-CTOR
-Central Oriental,Sianna-CTOR,7.10' x 9.10',Sianna-CTOR,14629S,,194216066230,429.99,14629S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Sianna-CTOR/Sianna-CTOR
-Central Oriental,Searcy-CTOR,6.7' x 9',Searcy-CTOR,14688S,,194216125050,339.99,14688S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Searcy-CTOR/Searcy-CTOR
 Central Oriental,Brigitta-CTOR,8' x 10',Brigitta-CTOR,1003487S,,194216140794,289.99,1003487S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Brigitta-CTOR/Brigitta-CTOR
 Central Oriental,Cruz-CTOR,5' x 8',Cruz-CTOR,1003484S,,194216140664,139.99,1003484S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Cruz-CTOR/Cruz-CTOR
 Central Oriental,Winsley-CTOR,5' x 8',Winsley-CTOR,1003482S,,038698980243,189.99,1003482S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Winsley-CTOR/Winsley-CTOR
 Central Oriental,Pedro-CTOR,5' x 8',Pedro-CTOR,1003457S,,194216164448,209.99,1003457S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Pedro-CTOR/Pedro-CTOR
 Central Oriental,Tan Grove Callum-CTOR,8' x 10',Tan Grove Callum-CTOR,1008670S,,194216181377,489.99,1008670S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Tan%20Grove%20Callum-CTOR/Tan%20Grove%20Callum-CTOR
 Central Oriental,Tan Grove Callum-CTOR,5' x 8',Tan Grove Callum-CTOR,1008669S,,194216181315,239.99,1008669S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Tan%20Grove%20Callum-CTOR/Tan%20Grove%20Callum-CTOR
+Central Oriental,Grass-Ctro,5' x 8',Grass-Ctro,757009,,194216093984,89.99,757009,https://homemakersfurniture.github.io/rugDatabase/#/collection/Grass-Ctro/Grass-Ctro
 Central Oriental,Acton-CTOR,5' x 7.6',Acton-CTOR,14061S,,194216116072,149.99,14061S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Acton-CTOR/Acton-CTOR
 Central Oriental,Gray Bebel Faux Fur-CTOR,5' x 7',Gray Bebel Faux Fur-CTOR,14071S,,194216108787,229.99,14071S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Gray%20Bebel%20Faux%20Fur-CTOR/Gray%20Bebel%20Faux%20Fur-CTOR
 Central Oriental,Faux Fox-CTOR,5' x 7',Faux Fox-CTOR,14393S,,194216145645,229.99,14393S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Faux%20Fox-CTOR/Faux%20Fox-CTOR
+Central Oriental,Silas-CTOR,5' x 7.6',Silas-CTOR,14626S,,194216054954,209.99,14626S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Silas-CTOR/Silas-CTOR
+Central Oriental,Sianna-CTOR,7.10' x 9.10',Sianna-CTOR,14629S,,194216066230,429.99,14629S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Sianna-CTOR/Sianna-CTOR
+Central Oriental,Searcy-CTOR,6.7' x 9',Searcy-CTOR,14688S,,194216125050,339.99,14688S,https://homemakersfurniture.github.io/rugDatabase/#/collection/Searcy-CTOR/Searcy-CTOR
 Central Oriental,Santorini-CTOR,5.3' x 7.7',Santorini-CTOR,368568,,038698843654,99.99,368568,https://homemakersfurniture.github.io/rugDatabase/#/collection/Santorini-CTOR/Santorini-CTOR
 Central Oriental,Contmp Santorini-CTOR,5.3' x 7.7',Contmp Santorini-CTOR,368602,,038698841100,99.99,368602,https://homemakersfurniture.github.io/rugDatabase/#/collection/Contmp%20Santorini-CTOR/Contmp%20Santorini-CTOR
 Central Oriental,Maisie-CTOR,5' x 7.6',Maisie-CTOR,474846,,038698935830,189.99,474846,https://homemakersfurniture.github.io/rugDatabase/#/collection/Maisie-CTOR/Maisie-CTOR
