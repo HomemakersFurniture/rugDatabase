@@ -30,7 +30,7 @@ function DesignDetail() {
       });
   }, [collectionName, designId]);
 
-  // Get unique colors and calculate rug counts
+  // Get unique colors, calculate rug counts, and track product ID availability
   const colorData = useMemo(() => {
     const colorMap = {};
 
@@ -39,16 +39,29 @@ function DesignDetail() {
       if (!colorMap[color]) {
         colorMap[color] = {
           color,
-          rugCount: 0
+          rugCount: 0,
+          hasProductId: false
         };
       }
       colorMap[color].rugCount++;
+
+      const productId = item['product_id'];
+      if (productId !== undefined && productId !== null && productId !== '') {
+        colorMap[color].hasProductId = true;
+      }
     });
 
-    return Object.values(colorMap).sort((a, b) => b.rugCount - a.rugCount);
+    // Prefer colors with an available product ID, then by rug count
+    return Object.values(colorMap).sort((a, b) => {
+      if (a.hasProductId !== b.hasProductId) {
+        return a.hasProductId ? -1 : 1;
+      }
+      return b.rugCount - a.rugCount;
+    });
   }, [data]);
 
-  // Set default color to the one with most rugs
+  // Default to the first color with a product ID present, falling back to
+  // the one with the most rugs if no color has a product ID yet
   useEffect(() => {
     if (colorData.length > 0 && !selectedColor) {
       setSelectedColor(colorData[0].color);
