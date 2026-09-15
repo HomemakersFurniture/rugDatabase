@@ -15,6 +15,7 @@
  *   - UPC
  *   - Retail (stripped of $ and commas, converted to number)
  *   - Product_Id (mapped to "product_id", optional)
+ *   - Image URL (optional)
  *
  * Usage:
  *   npm run convert-data
@@ -41,6 +42,7 @@ const COLUMN_MAP = {
   'UPC': 'UPC',
   'Retail': 'Retail',
   'Product_Id': 'product_id',
+  'Image URL': 'Image URL',
 };
 
 // Required CSV columns (must exist)
@@ -57,7 +59,8 @@ const REQUIRED_CSV_COLUMNS = [
 
 // Optional CSV columns
 const OPTIONAL_CSV_COLUMNS = [
-  'Product_Id'
+  'Product_Id',
+  'Image URL'
 ];
 
 function parseRetail(value) {

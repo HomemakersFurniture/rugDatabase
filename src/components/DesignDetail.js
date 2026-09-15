@@ -119,6 +119,19 @@ function DesignDetail() {
     };
   }, [data]);
 
+  // One representative image for the currently selected color (first non-empty
+  // Image URL among items matching it). No fallback to another color's image -
+  // if the selected color has none, no image is shown. Plus the size of the
+  // item it came from so we can caption it.
+  const designImage = useMemo(() => {
+    const colorMatches = hasMultipleColors && selectedColor
+      ? data.filter(item => item['Primary Color'] === selectedColor)
+      : data;
+    const withImage = colorMatches.find(item => item['Image URL']);
+    if (!withImage) return null;
+    return { url: withImage['Image URL'], size: withImage['Size'] || null };
+  }, [data, hasMultipleColors, selectedColor]);
+
   // Cleanup timeout on unmount
   useEffect(() => {
     return () => {
@@ -187,6 +200,24 @@ function DesignDetail() {
         <h2>{designInfo.collectionName} &mdash; {designInfo.vendor}</h2>
       </div>
 
+      {designImage && (
+        <div className="design-image-container">
+          <figure className="design-image-figure">
+            <img
+              src={designImage.url}
+              alt={`${designInfo.designId} design`}
+              className="design-image"
+            />
+            {designImage.size && (
+              <figcaption className="design-image-caption">
+                Pictured: {designImage.size}
+              </figcaption>
+            )}
+          </figure>
+        </div>
+      )}
+
+      {(hasMultipleColors || colorData[0]?.color !== 'Unknown') && (
       <div className="color-selector-container">
         {hasMultipleColors ? (
           <>
@@ -205,9 +236,12 @@ function DesignDetail() {
             </select>
           </>
         ) : (
-          <p className="single-color-label">The only color available is: <strong>{colorData[0]?.color}</strong></p>
+          colorData[0]?.color !== 'Unknown' && (
+            <p className="single-color-label">Currently viewing rug color: <strong>{colorData[0]?.color}</strong></p>
+          )
         )}
       </div>
+      )}
 
       <p className="order-instruction">Make note of or show the <span className="order-id-highlight">Order ID</span> to a sales associate to order.</p>
       <table className="detail-table">
